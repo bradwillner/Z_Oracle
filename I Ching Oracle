@@ -166,7 +166,7 @@ if trigram_2 == "Thunder":
 					print("- -")
 					print("---")
 
-#Heaven over Heaven
+# 1 Heaven over Heaven
 if trigram_1 == "Heaven" and trigram_2 == "Heaven":
 	print ()
 	print ("#1 Qian")
@@ -181,7 +181,7 @@ if trigram_1 == "Heaven" and trigram_2 == "Heaven":
 	print ("You are stong enough now to achieve your goals--use this strength only in humane, loving, moral, wise, and just ways. if you do, you will achieve sublime success. if you use your strength excessively, or are arrogant or overly ambitious, you will fail and may find yourself caught in a web of corruption; you may also lose opportunities because of complacency and carelessness.")
 
 
-#Earth over Earth
+# 2 Earth over Earth
 if trigram_1 == "Earth" and trigram_2 == "Earth":
 	print ()
 	print ("#2 Kun")
@@ -195,7 +195,7 @@ if trigram_1 == "Earth" and trigram_2 == "Earth":
 	print ("This hexagram advocates a gentle, steady, firm, and courageous approach to your issue. By following this path you may have to wait a little longer than you would like for the desired result, but the wait will be most rewarding. Doing things on impulse will not give you any lasting success. Thinking that you alone must control your decision will only invite disaster--when you try to control everything, everything will go out of control.")
 
 
-#Water over Thunder
+# 3 Water over Thunder
 if trigram_1 == "Water" and trigram_2 == "Thunder":
 	print ()
 	print ("#3 Zhun")
@@ -211,7 +211,7 @@ if trigram_1 == "Water" and trigram_2 == "Thunder":
     print ("This is not a good time for action. You are advised to put your affairs into proper order and then temporarily disengage yourself. Go with the flow and a good opportunity will eventually present itself.")
 
 
-#Mountain over Water
+# 4 Mountain over Water
 if trigram_1 == "Mountain" and trigram_2 == "Water":
     print ()
     print ("#4 Meng")
@@ -226,7 +226,7 @@ if trigram_1 == "Mountain" and trigram_2 == "Water":
 	print ("Should your student prove to be overly demanding or psychologically incapable of receiving instruction at this time, you can at least allow your forbearance and kindness to provide the student with a fine role model. In time, this person will outgrow these difficulties.")
 
 
-#Water over Heaven
+# 5 Water over Heaven
 if trigram_1 == "Water" and trigram_2 == "Heaven":
 	print ()
 	print ("#5 Xu")
@@ -239,3 +239,36 @@ if trigram_1 == "Water" and trigram_2 == "Heaven":
 	print ("Waiting becomes arduous only when we lack confidence that all will occur for the best in its own time. We can learn to endure apparent delays if we have steadfast faith that the future will be bright. When we approach waiting with an inner certainty that our goals will be attainable, the anticipation in itself may be a cause for celebration.")
 	print ("Xu discourages worrying and interference before the time is ripe. Rather, it recommends that we use the fallow time well, preparing ourselves both spiritually and physically. This may mean that we focus on nourishing the body wisely to enrich and complete the soul.")
 	print ("Acceptance of waiting does not mean abandoning ambititon. By allowing us to nourish our bodies and spirits, patience strengthens our ability to grasp opportunities.")
+
+
+# 6 Heaven over Water
+if trigram_1 == "Heaven" and trigram_2 == "Water":
+	print ()
+	print ("#6 Song")
+	print ()
+	print ("Antagonism, Contention")
+	print ()
+	print ("Attributes: Quarrels, disputes, litigation, argumentative natures")
+	print ()
+	print ("This hexagram comprises Heaven over Water, which suggests a necessary divergence. Heaven's nature is to rise, while water's is to descend. Water parts from heaven as gravity draws rain from clouds, and social harmony is pulled apart by differences of opinion. The inner peace and independence represented by the Heaven trigram is undermined by the heaviness of Water.")
+	print ("Where such divergence of nature or ideas occurs, situations may rapidly turn udly--unless we remain clearheaded and ready to meet opponents halfway. Rather than personally pushing matters to the limit (even though we may have justifiable cause), it is wise to seek arbitraition from an impartial, experienced mediator.")
+	print ("In divination, Song recommends calmness and caution. For example, if the question asked conerns business, any great undertakings are advised against; if marriage is the issue, the prospects are not favorable. Song also advises us to keep a close eye on our tempers.")
+	print ("It should also be remembered that much outer conflict is ultimately a reflection of conflicts within ourselves. Many misunderstandings and arguments can be avoided if we remain true to our inner feelings and reluctant to indulge in anger, self-righteousness, and suspicion.")
+
+
+# 7 Earth over Water
+if trigram_1 == "Earth" and trigram_2 == "Water":
+	print ()
+	print ("#7 Shi")
+	print ()
+	print ("The Army, Collective Energy")
+	print ()
+	print ("Attributes: Gathering your forces, competition, war")
+	print ()
+	print ("This hexagram comprises Earth over Water. Water is collecting in the ground and, in overabundance, may become a powerful destabilizing force. As Earth in this case represents massed humanity, Shi warns of potential danger to the multitudes.")
+	print ("At a national level, these dangers may be lessened by the existence of a well-orderd and disciplined army. People assembled in an army are powerful, but if poorly trained and led they may be dangerous to themselves. Therefore Shi stresses that the general of the forces must be loyal, experienced, and dedicated to the benefit of all.")
+	print ("In battle the success of an army depends on the degree of trust the soldiers place in their commanders. Since the purpose of military affairs must at all times be righteous, only a person of genuinely noble character should take charge.")
+	print ("Shi often indicates that we should develop our own leadership qualities in our business or social lives, but also encourages us to achieve the correct relationship between the stronger and inferior elements of our personalities. Like an army, our personalities require self-discipline and honorable leadership--in this case, from our higher selves.")
+	
+	
+	
