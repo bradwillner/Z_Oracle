@@ -328,3 +328,36 @@ if trigram_1 == "Earth" and trigram_2 == "Heaven":
 	Print ("In this environment, great ideas and a spirit of compassion and benevolence effectively oust pettiness. Individuals support each other like a mother Earth and father Heaven, all acting respectful and loving unity. Rising above self-interst, family, friends, and colleagues find it unusually effortless to preserve harmony.")
 	Print ("While the time is highly favorable for all projects concerned with communal success, we are encouraged to increase good fortune through the maintenance of our own goodwill and healthy attitudes. These are also easier than usual to achieve since, like the harmony of heaven and earth, our conscious and subconscious minds will be working very compatibly.")
 	Print ("The word tai is considered highly auspicious in Chinese, hence the hexagram suggests a time when success is easy to come by. Small investments will yield large profits")
+
+
+# 12 Heaven over Earth
+if trigram_1 == "Heaven" and trigram_2 == "Earth":
+	Print ()
+	Print ("# 12 Pi")
+	Print ()
+	Print ("Standstill, Stagnation")
+	Print ()
+	Print ("Attributes: Disharmony, Contraction, Obstruction, Adversity, Estrangement")
+	Print ()
+	Print ("This hexagram comprises Heaven over Earth. While the two trigrams reversed positions in hexagram 11 indicated a beneficial commingling of Earth and Heaven, here the two are distant and alienated from each other. The result is obstruction and negativity. Where there is strength at the top and weakness below, things can easily collapse; where there is strength without and weakness within, there is only superficiality and fragility.")
+	Print ("This sort of skin-deep strength is often found in the sorts of people who come into ascendance in a period associated with Pi. Their public bravado and arrogance is frequently  a facade for a very feeble spirit within. In time these weak rulers will be recognized as such and overthrown, but the damage they do often outlives them.")
+	Print ("When such individuals dominate, those of more substance are undervalued or disliked and must firmly resist any temptation to sell their integrity  for favor or fortune. Further problems are all we can expect to encounter if we permit ourselves to be caught up in false thinking.")
+	print ("In such periods of adversity, Pi reminds us to remain steadfast and remember that all conditions are temporary and that better times must necessarily lie ahead.")
+	
+
+# 13 Heaven over Fire
+if trigram_1 == "Heaven" and trigram_2 == "Fire":
+	Print ()
+	Print ("# 13 Tong Ren")
+	Print ()
+	Print ("Fellowship, Gathering in the Field")
+	Print ()
+	Print ("Attributes: Comradeship, community, like-minded people, seeking harmony")
+	Print ()
+	Print ("This hexagram comprises Heaven over Fire and suggests flames, like human spirits, rising to the heavens as if seeing their reflection in the sun and stars. As individual flames are more easily extinguished  than a bonfire, so may the human spirit ascend more powerfully when it is in unity with others.")
+	print ("True community is much more than a mere mass of humanity, and so Tong Ran emphasizes the value of those who have the capacity for leadership and the ability to organize and create a unifying group purpose. Alliances are dependent upon common ground  and shared goals and activities. We must be reminded that we all come from the same source and that the sun shines equally upon all.")
+	print ("Among the most potent of enemies of community are factionalism, suspicion, and secrecy— hence Tong Ren’s  title of “Gathering in the field,” a place of openness, not physical and spiritual. Secret reservations and unhelpful attitudes must be brought out into the open where they can be gently and respectfully corrected.")
+	print ("The creation of such communities will not eradicate challenges, but if the groups unity is maintained these can be met bravely with expectations of eventual success.")
+	
+	
+	
