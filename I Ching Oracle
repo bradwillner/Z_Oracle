@@ -283,4 +283,18 @@ if trigram_1 == "Water" and trigram_2 == "Earth":
 	print ("This hexagram comprises Water over Earth. The waters of the upper trigram mingle as they traverse the land of the lower trigram, forming streams and rivers until they blend in the ocean, hence Bi's central image of union and mutual help. The five yielding lines of the hexagram hold together because the strong fifth line unites them. The leading position of this line ensures that all may further their truest intersts.")
 	print ("As the waters grow strong through union, so do communities. Nothing is more auspicious than harmonious relationships between individuals. To survive and flourish, people must love and care for each other. Our bonds should be as strong as those of a mother and child.")
 	print ("To achieve this we must pay attention not only to those around us but also to our inner selves. Through our mistakes and misunderstandings, we discover the guidelines that make relationships work. We must cultivate a sincere desire for harmony and mutual support in our friendships, communities, and workplaces.")
+
 	
+# 9 Wind over Heaven
+if trigram_1 == "Wind" and trigram_2 == "Heaven":
+	print ()
+	print ("#9 Xiao Xu")
+	print ()
+	print ("The Taming Power of the Small, Restraint")
+	print ()
+	print ("Attributes: Delays, hinderance, quiet accumulation, storing up energy")
+	print ()
+	print ("This hexagram comprises Wind over Heaven, suggesting the calm movement of clouds across the sky. This indicates that change is possible, but only in relatively insubstantial and fleeting matters. The sole yin line needs time to accumulate strength before lasting results are achievable.")
+	print ("Xiao Xu tells us that our influence is currently limited by external circumstances. Progress appears to have come to a standstill, perhaps in the face of small obstructions brought about by our inexperience. In the face of such delays, we should devote ourselves to rest and preparation. With little ability to exert our influence on external reality, this is a time for refining our inner worlds.")
+	print ("While we might at this time appear overly submissive, thereby discouraging the confidence of others, we can nevertheless make small changes through gentle, friendly persuasion. Self-discipline must be cultivated to prevent ambition from exerting negative pressure.")
+	print ("In all things, this hexagram advises of patience and caution. In business, it recommends preparation for new developments. In relationships and marriage, it warns of temporary trouble and suspicion. It is essential not to compromise our characters in the face of these small tribulations. Great lessons may be learned from small matters.")
