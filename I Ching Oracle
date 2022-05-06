@@ -271,4 +271,16 @@ if trigram_1 == "Earth" and trigram_2 == "Water":
 	print ("Shi often indicates that we should develop our own leadership qualities in our business or social lives, but also encourages us to achieve the correct relationship between the stronger and inferior elements of our personalities. Like an army, our personalities require self-discipline and honorable leadership--in this case, from our higher selves.")
 	
 	
+# 8 Water over earth
+if trigram_1 == "Water" and trigram_2 == "Earth":
+	print ()
+	print ("#8 Bi")
+	print ()
+	print ("Union, Assistance")
+	print ()
+	print ("Attributes: Accord, alignment, integration, cohesion, support")
+	print ()
+	print ("This hexagram comprises Water over Earth. The waters of the upper trigram mingle as they traverse the land of the lower trigram, forming streams and rivers until they blend in the ocean, hence Bi's central image of union and mutual help. The five yielding lines of the hexagram hold together because the strong fifth line unites them. The leading position of this line ensures that all may further their truest intersts.")
+	print ("As the waters grow strong through union, so do communities. Nothing is more auspicious than harmonious relationships between individuals. To survive and flourish, people must love and care for each other. Our bonds should be as strong as those of a mother and child.")
+	print ("To achieve this we must pay attention not only to those around us but also to our inner selves. Through our mistakes and misunderstandings, we discover the guidelines that make relationships work. We must cultivate a sincere desire for harmony and mutual support in our friendships, communities, and workplaces.")
 	
