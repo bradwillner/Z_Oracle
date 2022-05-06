@@ -313,3 +313,18 @@ if trigram_1 == "Heaven" and trigram_2 == "Lake":
 	Print ("The path taken may be unfamiliar and fraught with danger, but with careful planning and sensible precautions harm will be avoided. Where no immediate peril looms, time should be spent considering those dangers that may lie ahead.")
 	Print ("The precarious situations alluded to by this hexagram are often of a social nature. Lu advises us to behave with decorum, diplomacy, and good humor, safe in the knowledge that these may pacify even the most irritating of individuals. It suggests that a sufficiently tactful individual might even tread on a tiger's tail without incurring a reprisal, while an aggressive person practically invites the tiger to bite.")
 	Print ("This gentleness of nature and consistency of a manners may be learned from those whom we like and respect, again as the child may learn the ways of the world by following a wise parents footsteps.")
+
+
+# 11 Earth over Heaven
+if trigram_1 == "Earth" and trigram_2 == "Heaven":
+	Print ()
+	Print ("# 11 Tai")
+	Print ()
+	Print ("Peace, Harmony")
+	Print ()
+	Print ("Attributes: Contentment, Communion, Perfect Balance, Fecundity")
+	Print ()
+	Print ("This hexagram comprises Earth over Heaven, a particularly favorable combination. The commingling of earth qi and heaven qi produces a period of tranquility and fruitfulness. As if this is an idealized country of the imagination, negativity is consistently counterbalanced and transformed by positive energies. The atmosphere is like that of a bright day in the early spring.")
+	Print ("In this environment, great ideas and a spirit of compassion and benevolence effectively oust pettiness. Individuals support each other like a mother Earth and father Heaven, all acting respectful and loving unity. Rising above self-interst, family, friends, and colleagues find it unusually effortless to preserve harmony.")
+	Print ("While the time is highly favorable for all projects concerned with communal success, we are encouraged to increase good fortune through the maintenance of our own goodwill and healthy attitudes. These are also easier than usual to achieve since, like the harmony of heaven and earth, our conscious and subconscious minds will be working very compatibly.")
+	Print ("The word tai is considered highly auspicious in Chinese, hence the hexagram suggests a time when success is easy to come by. Small investments will yield large profits")
