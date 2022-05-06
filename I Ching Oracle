@@ -298,3 +298,18 @@ if trigram_1 == "Wind" and trigram_2 == "Heaven":
 	print ("Xiao Xu tells us that our influence is currently limited by external circumstances. Progress appears to have come to a standstill, perhaps in the face of small obstructions brought about by our inexperience. In the face of such delays, we should devote ourselves to rest and preparation. With little ability to exert our influence on external reality, this is a time for refining our inner worlds.")
 	print ("While we might at this time appear overly submissive, thereby discouraging the confidence of others, we can nevertheless make small changes through gentle, friendly persuasion. Self-discipline must be cultivated to prevent ambition from exerting negative pressure.")
 	print ("In all things, this hexagram advises of patience and caution. In business, it recommends preparation for new developments. In relationships and marriage, it warns of temporary trouble and suspicion. It is essential not to compromise our characters in the face of these small tribulations. Great lessons may be learned from small matters.")
+
+
+# 10 Heaven over Lake
+if trigram_1 == "Heaven" and trigram_2 == "Lake":
+	Print ()
+	Print ("# 10 Lu")
+	Print ()
+	Print ("Following a Path, Treading Carefully")
+	Print ()
+	Print ("Attributes: Dignified conduct, comportment, taking a risk but watching your step")
+	Print ()
+	Print ("This hexagram comprises Heaven over Lake, two foreces so greatly separated by the distance between the that no disharmony arises. The lower trigram is likened to a trusting and cheerful daughter finding her way without mistakes by treading in the footsteps of her powerful father, represented by the upper trigram(the word lu originally meant shoes.")
+	Print ("The path taken may be unfamiliar and fraught with danger, but with careful planning and sensible precautions harm will be avoided. Where no immediate peril looms, time should be spent considering those dangers that may lie ahead.")
+	Print ("The precarious situations alluded to by this hexagram are often of a social nature. Lu advises us to behave with decorum, diplomacy, and good humor, safe in the knowledge that these may pacify even the most irritating of individuals. It suggests that a sufficiently tactful individual might even tread on a tiger's tail without incurring a reprisal, while an aggressive person practically invites the tiger to bite.")
+	Print ("This gentleness of nature and consistency of a manners may be learned from those whom we like and respect, again as the child may learn the ways of the world by following a wise parents footsteps.")
