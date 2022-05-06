@@ -180,6 +180,7 @@ if trigram_1 == "Heaven" and trigram_2 == "Heaven":
 	print	("This is an auspicious omen. Once you have attained a broader perspective, you will become prosperous. This hexagram, which relates to the primal energy from which all forms of life emerge, is symbolic of success in new ventures or relationships if you understand the cycle of life, knowing when to put energy into your project or relationship and when not to persist. Take the time to rest and prepare yourself. Be assured that dynamic and creative changes are in motion. In business, you may find that activity is slow and that it is not a good time to commit yourself to long-term plans.")
 	print ("You are stong enough now to achieve your goals--use this strength only in humane, loving, moral, wise, and just ways. if you do, you will achieve sublime success. if you use your strength excessively, or are arrogant or overly ambitious, you will fail and may find yourself caught in a web of corruption; you may also lose opportunities because of complacency and carelessness.")
 
+
 #Earth over Earth
 if trigram_1 == "Earth" and trigram_2 == "Earth":
 	print ()
@@ -208,6 +209,8 @@ if trigram_1 == "Water" and trigram_2 == "Thunder":
     print ("This is a period when new situations are full of potential to develop, so you should devote your energies to careful preparation and timing, and to strengthening your ability to distinguish reality from illusion.")
     print ("As this is a time of confusion, be watchful of any corrupting influences around you that may divert you from your true path. You are young and innocent at this stage, but do not feel vulnerable, as you must attempt to make order out of disorder.  You may need to sever certain karmic links—to untangle entwined destines or to reassess certain family dynamics—particularly when negativity manifests within the family. You may have to look closely assess whether you are responding to the illusions created by false learning or social conditioning.")
     print ("This is not a good time for action. You are advised to put your affairs into proper order and then temporarily disengage yourself. Go with the flow and a good opportunity will eventually present itself.")
+
+
 #Mountain over Water
 if trigram_1 == "Mountain" and trigram_2 == "Water":
     print ()
@@ -221,3 +224,18 @@ if trigram_1 == "Mountain" and trigram_2 == "Water":
 	print ("This is a time in which to acknowledge areas of naivete, suspend mistrust of the unknown, and allow a more experienced person or expert in the relevant field to lead and instruct. The Mountain represents knowledge and Water the journey. Combined they suggest your pathway to great things--if you know how to be a good student. Develop your modesty and you will find that you will find that you will attract the attentions of a great teacher who will be receptive to your needs.")
 	print ("Alternativly, you may be called to guide one younger or less worldly than yourself, in which case you mist cultivate within yourself patience, thoughtfulness, and consistency, and within your pupil sincerity and a willingness to learn.")
 	print ("Should your student prove to be overly demanding or psychologically incapable of receiving instruction at this time, you can at least allow your forbearance and kindness to provide the student with a fine role model. In time, this person will outgrow these difficulties.")
+
+
+#Water over Heaven
+if trigram_1 == "Water" and trigram_2 == "Heaven":
+	print ()
+	print ("#5 Xu")
+	print ()
+	print ("Confident Patience, Calm Abiding")
+	print ()
+	print ("Attributes: Waiting, the need for nourisment, calculated inaction")
+	print ()
+	print ("This hexagram comprises Water over Heaven, which suggests clouds rising to the heavens, eventually to rain and provide nourisment from above. Rain refreshes all that grows and so ultimately provides humankind with food and drink. This gift, however, comes in its own time, rather than at our bidding, and so we mist learn to wait for it despite our need. This hexagram requires the development of patience.")
+	print ("Waiting becomes arduous only when we lack confidence that all will occur for the best in its own time. We can learn to endure apparent delays if we have steadfast faith that the future will be bright. When we approach waiting with an inner certainty that our goals will be attainable, the anticipation in itself may be a cause for celebration.")
+	print ("Xu discourages worrying and interference before the time is ripe. Rather, it recommends that we use the fallow time well, preparing ourselves both spiritually and physically. This may mean that we focus on nourishing the body wisely to enrich and complete the soul.")
+	print ("Acceptance of waiting does not mean abandoning ambititon. By allowing us to nourish our bodies and spirits, patience strengthens our ability to grasp opportunities.")
