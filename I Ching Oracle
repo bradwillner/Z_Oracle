@@ -360,4 +360,16 @@ if trigram_1 == "Heaven" and trigram_2 == "Fire":
 	print ("The creation of such communities will not eradicate challenges, but if the groups unity is maintained these can be met bravely with expectations of eventual success.")
 	
 	
-	
+# 14 Fire over Heaven
+if trigram_1 == "Fire" and trigram_2 == "Heaven":
+	Print ()
+	Print ("# 14 Da You")
+	Print ()
+	Print ("Possession in Great Measure, Abundance")
+	Print ()
+	Print ("Attributes: Wealth, vast resources, a great harvest")
+	Print ()
+	Print ("This hexagram comprises Fire over Heaven—the Fire above being, naturally, the sun shining over the land, while Heaven below indicates an inner strength with outer clarity.  In this radiant situation, obstacles have melted away to allow the manifestation of magnificent prosperity and abundance.")
+	Print ("In this atmosphere of clarity, we can confidently do the right things at the right time to endure a fine harvest.  Such bounty, however, will have its drawbacks unless it is accompanied by a commitment to maintain the harmony that initially created this time of prosperity and peace.")
+	Print ("The primary danger to which Da You alerts us is the pride that often follows on the heels of success. Arrogance will lose friends, gain enemies, and undermine the foundation of our achievements. Similarly, many have frittered away both their gains and their support through the self-indulgent pursuit of luxuries.")
+	Print ("In contrast, remaining humble and generous in the midst of plenty allows for continued growth and increased respect. Wealth and personal power are both increased when these are seen as responsibilities rather than mere possessions. Great success occurs when we are in harmony with the cosmos.")
