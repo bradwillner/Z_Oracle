@@ -373,3 +373,20 @@ if trigram_1 == "Fire" and trigram_2 == "Heaven":
 	Print ("In this atmosphere of clarity, we can confidently do the right things at the right time to endure a fine harvest.  Such bounty, however, will have its drawbacks unless it is accompanied by a commitment to maintain the harmony that initially created this time of prosperity and peace.")
 	Print ("The primary danger to which Da You alerts us is the pride that often follows on the heels of success. Arrogance will lose friends, gain enemies, and undermine the foundation of our achievements. Similarly, many have frittered away both their gains and their support through the self-indulgent pursuit of luxuries.")
 	Print ("In contrast, remaining humble and generous in the midst of plenty allows for continued growth and increased respect. Wealth and personal power are both increased when these are seen as responsibilities rather than mere possessions. Great success occurs when we are in harmony with the cosmos.")
+
+
+# 15 Earth over Mountain
+if trigram_1 == "Earth" and trigram_2 == "Mountain":
+	print ()
+	print ("# 15 Qian")
+	print ()
+	print ("Humility, Modesty")
+	print ()
+	print ("Attributes: Stability of mind, lack of pretension, propriety")
+	print ()
+	print ("This hexagram comprises Earth over Mountain. Typically, the mountain looms majestically over the lowly earth—the reversal of this order in Qian indicates the elevation of the humble by virtue of humility itself. Thus Qian elaborates on the hexagram 14’s warning against arrogance. ")
+	print ("Humility is a quality of the mature mind, rather than an innate quality, and so it needs to be cultivated. In the undeveloped mind, boasting often attends ambition, and pride and self-importance follow personal success. We need to be on guard against both these conditions, remaining mindful that even if we climb the highest peak we are sill standing on the same earth as all humanity.")
+	print ("Only the genuinely  humble are capable of leading effectively, acknowledging that extremes of inequality are the source of discontent.  Ostentation, whether conscious or carelessly exhibited through discourtesy and a refusal to curb bad personal habits, ultimately erodes success, while a conscientious devotion to deference, respectfulness, and correctness for their own sakes strengthens all.")
+	print ("Restraining our egos and refusing to be seduced by pride, we are well placed to work well with others, regardless of position, age, or gender. We may, however, need to watch out for people who try to take advantage of our humility for their own ends.")
+
+	
