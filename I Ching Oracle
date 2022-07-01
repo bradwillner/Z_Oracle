@@ -389,4 +389,16 @@ if trigram_1 == "Earth" and trigram_2 == "Mountain":
 	print ("Only the genuinely  humble are capable of leading effectively, acknowledging that extremes of inequality are the source of discontent.  Ostentation, whether conscious or carelessly exhibited through discourtesy and a refusal to curb bad personal habits, ultimately erodes success, while a conscientious devotion to deference, respectfulness, and correctness for their own sakes strengthens all.")
 	print ("Restraining our egos and refusing to be seduced by pride, we are well placed to work well with others, regardless of position, age, or gender. We may, however, need to watch out for people who try to take advantage of our humility for their own ends.")
 
-	
+# 16 Thunder over Earth
+if trigram_1 == "Thunder" and trigram_2 == "Earth":
+	print ()
+	print ("# 16 Yu")
+	print ()
+	print ("Enthusiasm, Vitality")
+	print ()
+	print ("Attributes: Vigorous action, delight, expression")
+	print ()
+	print ("This hexagram comprises Thunder over Earth, evoking the image of the first thunderstorms of summer. The crashing sound from the clouds banishes the tensions of a period of relative inactivity, and to the relief of all the earth begins to stir.")
+	print ("Similarly, Yu describes the welling up and release of energy within us, whether self-generated or evoked by the animation and enthusiasm of a great motivator. Like the thunder, this effusive energy acts as the firing of a starting gun or a clarion’s call to action.")
+	print ("This exuberance is often accompanied and intensified by celebration, feasting, and music. Leaders, religious and secular, have relied upon these methods to raise the spirits of their people for as long as humanity has existed, ensuring that all share in the festivities and happiness. Such confidence and eagerness also inspire loyalty and diligence in supporters and staff.")
+	print ("Such outpourings of giving and receiving, pleasure, and satisfaction will bring together parties of all sides, clearing away obstacles to the realization of our joint aspirations. United in delight and devotion,  the community will embark on great undertakings without fear. The only danger lies in a leader’s exploiting this enthusiasm for self-indulgent ends.")
