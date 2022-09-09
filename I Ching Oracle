@@ -402,3 +402,17 @@ if trigram_1 == "Thunder" and trigram_2 == "Earth":
 	print ("Similarly, Yu describes the welling up and release of energy within us, whether self-generated or evoked by the animation and enthusiasm of a great motivator. Like the thunder, this effusive energy acts as the firing of a starting gun or a clarion’s call to action.")
 	print ("This exuberance is often accompanied and intensified by celebration, feasting, and music. Leaders, religious and secular, have relied upon these methods to raise the spirits of their people for as long as humanity has existed, ensuring that all share in the festivities and happiness. Such confidence and eagerness also inspire loyalty and diligence in supporters and staff.")
 	print ("Such outpourings of giving and receiving, pleasure, and satisfaction will bring together parties of all sides, clearing away obstacles to the realization of our joint aspirations. United in delight and devotion,  the community will embark on great undertakings without fear. The only danger lies in a leader’s exploiting this enthusiasm for self-indulgent ends.")
+
+# 17 Lake over Thunder
+if trigram_1 == "Lake" and trigram_2 == "Thunder":
+	print ()
+	print ("# 17 Sui")
+	print ()
+	print ("Following, Adaptation")
+	print ()
+	print ("Attributes: Appropriate change, leading from behind")
+	print ()
+	print ("This hexagram comprises Lake over Thunder. As Thunder is associated with movement and Lake with joy, the image suggested is one of quietly rippling wavelets caused by an exuberant power that has humbled itself.")
+	print ("In human terms such joy in movement relates to the way in which a wise leader induces people to follow. To lead well, we must understand our place within a situation and the positions of those who look to us for guidance. We must learn how to serve before we can reliably lead, and how to follow before we can expect followers. Without such knowledge we may be tempted to fall back on coercion and cunning, which will only bring resentment and resistance.")
+	print ("We must also learn when to act and when to refrain from action in order to restore our energy. A long period of relentless excitement will lead to ill fortune. We may experience frustration during periods of enforced rest, but this dissatisfaction can in itself be a strong motivation to great achievement. Conversely, no situation will be truly favorable unless we are able to adapt to it.")
+	print ("However, Sui generally indicates a time of gentle, persistent progress during which errors are easily avoided.")
