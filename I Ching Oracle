@@ -416,3 +416,17 @@ if trigram_1 == "Lake" and trigram_2 == "Thunder":
 	print ("In human terms such joy in movement relates to the way in which a wise leader induces people to follow. To lead well, we must understand our place within a situation and the positions of those who look to us for guidance. We must learn how to serve before we can reliably lead, and how to follow before we can expect followers. Without such knowledge we may be tempted to fall back on coercion and cunning, which will only bring resentment and resistance.")
 	print ("We must also learn when to act and when to refrain from action in order to restore our energy. A long period of relentless excitement will lead to ill fortune. We may experience frustration during periods of enforced rest, but this dissatisfaction can in itself be a strong motivation to great achievement. Conversely, no situation will be truly favorable unless we are able to adapt to it.")
 	print ("However, Sui generally indicates a time of gentle, persistent progress during which errors are easily avoided.")
+
+# 18 Mountain over Wind
+if trigram_1 == "Mountain" and trigram_2 == "Wind":
+	print()
+	print("# 18 Gu")
+	print()
+	print("Decay, Work on what has been spoiled")
+	print()
+	print("Attributes: Degeneration, corruption, healing, confronting the past")
+	print()
+	print("This hexagram comprises Mountain over Wind, which suggests a low wind being halted in its process by the mountain’s bulk. In turn the blustering air currents destroy the plants at the foot of the mountain. Similarly, in human affairs, lax attitudes create problems, which accumulate and introduce corruption into the community.")
+	print("Gu advises us to look for such defects in ourselves and in our environment and to take steps to repair the damage at the root so it does not recur. Whether the problems are caused by old bad habits, character defects, or poor organization, unless they are dealt with at the core level the cycle will continue to repeat disastrously.")
+	print("While this hexagram strongly recommends the turning over of a new leaf, it also advises caution and clear thought both before and after change is implemented.  There is no point in change if it sacrifices long-term benefits for short-term gain. Correctly identifying and dealing with areas of degeneration and chaos will,  however, clear the way to rebirth and great success.")
+	print("In business, Gu warns of poorly organized finances; in relationships, conflicts caused by differing temperaments and lifestyles; and in health, troubles from impurities and parasites.")
