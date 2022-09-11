@@ -472,3 +472,18 @@ if trigram_1 == "Fire" and trigram_2 == "Thunder":
 	print("The shape of Shi He also suggests an open mouth ( the yang lines on the top and bottom being the lips) with something in it. Shi means “to bite” and He means “to close”- action to remove obstacles is reinforced by the image of biting through the obstruction.")
 	print("In society such eradication of disorder must be governed by an effective and honorable justice system. Legal arguments are also suggested if the obstacle in the mouth is thought of as words that need to be spoken. The law must be properly administered  if social harmony is to prevail. Punishment is sometimes required but must be appropriate to the crime and free from vindictiveness.")
 	print("Shi He often portends a legal action or the appearance of a third party in a marriage or relationship, causing a disruption that will diminish in the face of patience.")
+
+# 22 Mountain over Fire
+if trigram_1 == "Mountain" and trigram_2 == "Fire":
+	print()
+	print("# 22 Bi")
+	print()
+	print("Grace, Adornment")
+	print()
+	print("Attributes: Glamour, elegance, glow, presentation")
+	print()
+	print("This hexagram comprises Mountain over Fire. This suggests the just-rising sun at dawn or the low-setting sun at dusk, or a bonfire at the foot of the mountain illuminating and emphasizing its beauty. There is great value and inspiration to be taken from such natural beauties, although we must remain careful not to perceive surface appearances only- we must remember to see beyond superficialities.")
+	print("Appreciation of beauty inclines us toward harmony and precision rather than chaos and carelessness. Whenever our aesthetic sensibilities urge us to adorn nature or society, this should be focused solely on abiding value and importance.")
+	print("Such guidelines often seem admirable in theory but fail in practice. In ourselves, overemphasis on surface beauty can eclipse our natural grace, leading to reckless and unfair judgments, pretense, and bravado.")
+	print("We must maneuver carefully and thoughtfully- do not be dazzled by surface appearances, but assess the true ramifications of the situation. In particular,  beware of taking legal matters lightly.")
+	print("Contemplation of the resplendency of form is enriching, but we must not take its permanency for granted. Its fleeting nature instructs us in the nature of time and being and so reveals the beauty of the spirit and the worlds behind this world.")
