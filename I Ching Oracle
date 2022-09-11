@@ -430,3 +430,18 @@ if trigram_1 == "Mountain" and trigram_2 == "Wind":
 	print("Gu advises us to look for such defects in ourselves and in our environment and to take steps to repair the damage at the root so it does not recur. Whether the problems are caused by old bad habits, character defects, or poor organization, unless they are dealt with at the core level the cycle will continue to repeat disastrously.")
 	print("While this hexagram strongly recommends the turning over of a new leaf, it also advises caution and clear thought both before and after change is implemented.  There is no point in change if it sacrifices long-term benefits for short-term gain. Correctly identifying and dealing with areas of degeneration and chaos will,  however, clear the way to rebirth and great success.")
 	print("In business, Gu warns of poorly organized finances; in relationships, conflicts caused by differing temperaments and lifestyles; and in health, troubles from impurities and parasites.")
+
+# 19 Earth over Lake
+if trigram_1 == "Earth" and trigram_2 == "Lake":
+	print()
+	print("# 19 Lin")
+	print()
+	print("Approach, Expansion")
+	print()
+	print("Attributes: Prevailing, becoming great, being recieved, making connections")
+	print()
+	print("This hexagram comprises Earth over lake, suggesting a lake nestled in high ground as if being nurtured in the protection of a stronger power. Both the depth of the waters and the inexhaustible bounty of the earth betoken the unlimited readiness of the wisest people to sustain and educate others. Lin observes that like children being advised by a firm but kindly parents we currently in an excellent position to receive instruction vital to our development. ")
+	print("Sustained by good examples and our willingness to learn, we may become like nature at the beginning of spring: hopeful, steadily flourishing, and able to move forward, toward maximum potency. If we are able to read the signs of the times, this period will be one of steady advancement and expansion. ")
+	print("To make the best of this, we must be constantly vigilant, examining our thoughts and motives for any small errors that might also grow as we progress. With foresight, many obstacles can be warded off before they manifest fully.")
+	print("Like many other hexagrams, Lin warns us not to fall prey to self-importance and lack of discipline as we observe our progress. We must remain balanced between a trusting obedience to our guides and magnanimity toward others as we protect them.")
+	
