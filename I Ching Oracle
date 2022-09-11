@@ -445,3 +445,16 @@ if trigram_1 == "Earth" and trigram_2 == "Lake":
 	print("To make the best of this, we must be constantly vigilant, examining our thoughts and motives for any small errors that might also grow as we progress. With foresight, many obstacles can be warded off before they manifest fully.")
 	print("Like many other hexagrams, Lin warns us not to fall prey to self-importance and lack of discipline as we observe our progress. We must remain balanced between a trusting obedience to our guides and magnanimity toward others as we protect them.")
 	
+# 20 Wind over earth
+if trigram_1 == "Wind" and trigram_2 == "Earth":
+	print()
+	print("# 20 Guan")
+	print()
+	print("Observation, Contemplation")
+	print()
+	print("Attributes: Watching, looking down from above, meditation, mental or physical traveling")
+	print()
+	print("This hexagram comprises Wind over Earth. Just as the wind may freely and widely travel over the earth, Guan advises that our thoughts and perceptions should do likewise. Mental clarity is emphasized, since a wind that carries clouds of dust with it will only obscure that which should be observed.")
+	print("The shape of the hexagram is reminiscent of traditional Chinese towers, an image that stresses how much more we can see from a high position that from the ground. Likewise, we perceive more with a calm, detached mind that with one embroiled in everyday life. Guan therefore recommends temporary withdrawal  in order to study our surrounding and contemplate the future.")
+	print("At the same time, we must not make the mistake of feeling absent from the situation. Even the watcher from the tower is part of the landscape. ")
+	print("In order to understand the state of affairs,  we may be called upon  either to travel or to gather information through research. This should in both cases be augmented by meditation. While much is learned from what is seen, the inner flow of life is equally important. We should listen to the unseen and gaze into the spaces between words and between breaths.")
