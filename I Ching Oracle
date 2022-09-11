@@ -458,3 +458,17 @@ if trigram_1 == "Wind" and trigram_2 == "Earth":
 	print("The shape of the hexagram is reminiscent of traditional Chinese towers, an image that stresses how much more we can see from a high position that from the ground. Likewise, we perceive more with a calm, detached mind that with one embroiled in everyday life. Guan therefore recommends temporary withdrawal  in order to study our surrounding and contemplate the future.")
 	print("At the same time, we must not make the mistake of feeling absent from the situation. Even the watcher from the tower is part of the landscape. ")
 	print("In order to understand the state of affairs,  we may be called upon  either to travel or to gather information through research. This should in both cases be augmented by meditation. While much is learned from what is seen, the inner flow of life is equally important. We should listen to the unseen and gaze into the spaces between words and between breaths.")
+
+# 21 Fire over Thunder
+if trigram_1 == "Fire" and trigram_2 == "Thunder":
+	print()
+	print("# 21 Shi He")
+	print()
+	print("Biting Through, Corrective Measures")
+	print()
+	print("Attributes: Eradicating obstacles, judging, restoring order, confronting negativity")
+	print()
+	print("This hexagram comprises Fire over Thunder, a combination evoking the lighting accompanying a thunderstorm. This image suggests the way in which nature forces through obstacles and restores imbalances of tension. Shi He advises that in human affairs problems should likewise be illuminated with the lightning flash of clear insight and shaken apart by the thunder of unleashed energy.")
+	print("The shape of Shi He also suggests an open mouth ( the yang lines on the top and bottom being the lips) with something in it. Shi means “to bite” and He means “to close”- action to remove obstacles is reinforced by the image of biting through the obstruction.")
+	print("In society such eradication of disorder must be governed by an effective and honorable justice system. Legal arguments are also suggested if the obstacle in the mouth is thought of as words that need to be spoken. The law must be properly administered  if social harmony is to prevail. Punishment is sometimes required but must be appropriate to the crime and free from vindictiveness.")
+	print("Shi He often portends a legal action or the appearance of a third party in a marriage or relationship, causing a disruption that will diminish in the face of patience.")
