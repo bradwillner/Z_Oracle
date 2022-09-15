@@ -487,3 +487,31 @@ if trigram_1 == "Mountain" and trigram_2 == "Fire":
 	print("Such guidelines often seem admirable in theory but fail in practice. In ourselves, overemphasis on surface beauty can eclipse our natural grace, leading to reckless and unfair judgments, pretense, and bravado.")
 	print("We must maneuver carefully and thoughtfully- do not be dazzled by surface appearances, but assess the true ramifications of the situation. In particular,  beware of taking legal matters lightly.")
 	print("Contemplation of the resplendency of form is enriching, but we must not take its permanency for granted. Its fleeting nature instructs us in the nature of time and being and so reveals the beauty of the spirit and the worlds behind this world.")
+
+# 23 Mountain over Earth
+if trigram_1 == "Mountain" and trigram_2 == "Earth":
+	print()
+	print("# 23 Po")
+	print()
+	print("Splitting Apart, Disintegration")
+	print()
+	print("Attributtes: Decay, fragmentation, collapse from within, falling away")
+	print()
+	print("This hexagram comprises Mountain over Earth. A mountain standing alone on the earth is exposed to the elements and will in time be worn down by erosion and landslide. Similarly, all our achievements will eventually be prone to forces of disintegration.")
+	print("The shape of the Po hexagram suggests weakness rising from within. Specifically, it resembles a house splitting apart, held together only by the roof (the top line). Dark inferior forces gradually undermine what is superior, so that collapse is inescapable. There is little support and no strength within.")
+	print("When such conditions take hold, no action or intervention proves useful. We should not attempt to postpone the inevitable, but should use the time for patient planning and consolidation. We must view the adversity dispassionately and derive every possible lesson from the situation to avoid repeating mistakes. In business, it is a good time to be careful, work hard, and wait for better times.")
+	print("Remaining conscious that it is darkest before the dawn, we should hold on to hope and also the certainty of improvement. To prepare for the new beginning, those with knowledge should pass it on to those with less and those with money and power should be aware of their responsibility to help others.")
+
+# 24 Earth over Thunder
+if trigram_1 == "Earth" and trigram_2 == "Thunder":
+	print()
+	print("# 24 Fu")
+	print()
+	print("The Turning Point, Return")
+	print()
+	print("Attributes: Resurgence, renewal, cycles, fresh beginnings")
+	print("")
+	print("This hexagram comprises Earth over Thunder.  This suggests an awareness of renewed vitality, represented by the energizing thunder over the sleeping earth. For this reason, Fu is associated with the winter solstice, the day after which the hours of sunlight increase. Although the weather remains cold and desolate, the seeds of warmth and light are beginning to grow.")
+	print("The promise of revival implicit in hexagram 23 starts to actualize in Fu. The cycle of existence moves steadily toward a better future and so we need not push matters at this time. Transformation of  the old comes easily and forward motion continues without obstruction but it moves at its own pace. We mist cultivate wisdom and patience as these new adventures unfold.")
+	print("All new beginning must be treated with special  care, and like someone returning to health after illness, we must not allow impetuosity to impede our progress. As matters move naturally toward success, we should prepare ourselves so that we can make the best of the new opportunities.")
+	print("In matters of business, this hexagram suggests a slow period that will give way to great success in time. In relationships and marriages, it indicates that although a previous partnership has been unsuccessful, the next will be much more rewarding.")
