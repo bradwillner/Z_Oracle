@@ -533,7 +533,7 @@ if trigram_1 == "Heaven" and trigram_2 == "Thunder":
 # 26 Mountain over Heaven
 if trigram_1 == "Mountain" and trigram_2 == "Heaven":
 	print()
-	print(" # 26 Da Xu")
+	print("# 26 Da Xu(Da Chui)")
 	print()
 	print("The Taming Power of the Great, Appropriate Restraint")
 	print()
@@ -547,7 +547,7 @@ if trigram_1 == "Mountain" and trigram_2 == "Heaven":
 # 27 Mountain over Thunder
 if trigram_1 == "Mountain" and trigram_2 == "Thunder":
 	print()
-	print(" # 27 Yi")
+	print("# 27 Yi")
 	print()
 	print("Nourishment, The Corners of the Mouth")
 	print()
@@ -557,3 +557,18 @@ if trigram_1 == "Mountain" and trigram_2 == "Thunder":
 	print("Happiness depends on being well nourished, both literally and metaphorically. Yi emphasizes that we must take responsibility for both types of self-nourishment. We must put the right food into our bodies and the right types of ideas into our minds and spirits. An emotional or intellectual diet of delusions, fantasies, self-pity, or greed is quite as damaging as unhealthy eating.")
 	print("Likewise, when we are called upon to nourish others—physically, mentally, and emotionally— we must be careful to discriminate between the Pure and the unworthy.")
 	print("The mouth not only takes in food and drink, but also gives forth speech. Yi stresses that moderation and tranquility are as important in our words as in our diet. Excess, carelessness, and poor ingredients should be avoided In both cases.")
+
+# 28 Lake over Wind
+if trigram_1 == "Lake" and trigram_2 == "Wind":
+	print()
+	print("# 28 Da guo(Ta Kuo)")
+	print()
+	print("The Preponderance of the Great, The Tension of Effort")
+	print()
+	print("Attributes: Excessive pressure, great heaviness, the danger of collapse")
+	print()
+	print("This hexagram comprises Lake over Wind. The I Ching sees this as an image of the waters of a flooding lake rising into the upper branches of the trees that are usually the domain of the wind. Such a condition is unusual and may prove dangerous if we remain in the vicinity.")
+	print("This worrisome image is reinforced by the hexagram’s appearance, which suggests a wooden beam  that is thick in the middle (the four yang lines) but weak at both ends (the bottom and top yin lines). The entire roof is likely to collapse once the pressure of the beam’s weight causes the weakened ends to give way.")
+	print("Da Guo advises that the best course at this time is simply to move away as quickly as possible. The direction of the flight is of small importance as long as we clear out of the area of danger.")
+	print("The excessive pressure that threatens us may have been caused by our ambitions exceeding our abilities or our resources being spread too thinly. In business it may show overexpansion, which has created a shortage of funds and unrest in the workplace,")
+	print("Either way, success is still attainable if we rise to the occasion.  If we act decisively, with courage and self-discipline, all will be well. Our only truly dangerous error at this point would be inaction.")
