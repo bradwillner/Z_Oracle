@@ -543,3 +543,17 @@ if trigram_1 == "Mountain" and trigram_2 == "Heaven":
 	print("All these various resources need to be gathered with restraint and firmness, resulting in the inner strength and other stillness of stored treasure within a mountain cavern. A resolute nature is needed to prevail against the obstacles that great endeavors necessarily encounter. A farmer will find his mettle tested in taming an unruly bull to plow his fields.")
 	print("Similarly, we need to focus our minds and wills vigorously and decisively in order to succeed in building up our reserves. Much work lies ahead, calling for self-discipline and strong leadership.")
 	print("Among the hindrances of which Da Xu warns is interference from troublesome people. In such cases, friendships should be cultivated if possible, since such alliances are also great resources. If, for example, the parents of the person one wishes to marry oppose the union, they should be won over by gentle persistence.")
+
+# 27 Mountain over Thunder
+if trigram_1 == "Mountain" and trigram_2 == "Thunder":
+	print()
+	print(" # 27 Yi")
+	print()
+	print("Nourishment, The Corners of the Mouth")
+	print()
+	print("Attributes: Nurturing, caring for oneself and others, temperance")
+	print()
+	print("This hexagram comprises Mountain over Thunder. The invigorating energy of nature symbolized by thunder is felt at the foot of the mountain, ready to rise up and encourage the renewed growth of the various plants that can sustain and heal us. This image of nourishment is also reflected by the hexagram’s shape, which resembles an open mouth, the yang lines at top and bottom being the lips.")
+	print("Happiness depends on being well nourished, both literally and metaphorically. Yi emphasizes that we must take responsibility for both types of self-nourishment. We must put the right food into our bodies and the right types of ideas into our minds and spirits. An emotional or intellectual diet of delusions, fantasies, self-pity, or greed is quite as damaging as unhealthy eating.")
+	print("Likewise, when we are called upon to nourish others—physically, mentally, and emotionally— we must be careful to discriminate between the Pure and the unworthy.")
+	print("The mouth not only takes in food and drink, but also gives forth speech. Yi stresses that moderation and tranquility are as important in our words as in our diet. Excess, carelessness, and poor ingredients should be avoided In both cases.")
