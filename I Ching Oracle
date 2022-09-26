@@ -529,3 +529,17 @@ if trigram_1 == "Heaven" and trigram_2 == "Thunder":
 	print("The creators of the I Ching saw only virtue in the expression of such energy, believing such primal innocence to be perfectly attuned to the will of heaven. Summoning this primal purity from our hearts helps to cleanse our overly complicated minds and guide us safely through life.")
 	print("A major part of this innocence is the state of living in the present. When we spend too much time calculating the results of our labor or seeking approval from others, we can undermine our efforts. We work best when we are fully present in the moment, not when we are distracted by expectations. Forethought is a proper part of our labors, but we can never force every eventuality. Wu Wang advises us to adapt to unexpected difficulties should they arise rather than cluttering our minds with possibilities that may never happen.")
 	print("When our thoughts are free from uncertainty, we can more closely reflect the natural flow of life’s energy. Guided by a blend of adult wisdom and the unclouded awareness of a child, we can progress with peace of mind and playfulness.")
+
+# 26 Mountain over Heaven
+if trigram_1 == "Mountain" and trigram_2 == "Heaven":
+	print()
+	print(" # 26 Da Xu")
+	print()
+	print("The Taming Power of the Great, Appropriate Restraint")
+	print()
+	print("Attributes: Accumulation, containment, holding firm, potential")
+	print()
+	print("This hexagram comprises Mountain over Heaven, which suggests the vast, creative power of heaven being stored within the stronghold of a mountain. This repository of power may be expressed through the creation of reserves in the bank, the amassing of personal virtue on a daily basis, and the accumulated knowledge, wisdom, and virtuous examples of great individuals in human history.")
+	print("All these various resources need to be gathered with restraint and firmness, resulting in the inner strength and other stillness of stored treasure within a mountain cavern. A resolute nature is needed to prevail against the obstacles that great endeavors necessarily encounter. A farmer will find his mettle tested in taming an unruly bull to plow his fields.")
+	print("Similarly, we need to focus our minds and wills vigorously and decisively in order to succeed in building up our reserves. Much work lies ahead, calling for self-discipline and strong leadership.")
+	print("Among the hindrances of which Da Xu warns is interference from troublesome people. In such cases, friendships should be cultivated if possible, since such alliances are also great resources. If, for example, the parents of the person one wishes to marry oppose the union, they should be won over by gentle persistence.")
