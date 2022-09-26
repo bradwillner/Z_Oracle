@@ -515,3 +515,17 @@ if trigram_1 == "Earth" and trigram_2 == "Thunder":
 	print("The promise of revival implicit in hexagram 23 starts to actualize in Fu. The cycle of existence moves steadily toward a better future and so we need not push matters at this time. Transformation of  the old comes easily and forward motion continues without obstruction but it moves at its own pace. We mist cultivate wisdom and patience as these new adventures unfold.")
 	print("All new beginning must be treated with special  care, and like someone returning to health after illness, we must not allow impetuosity to impede our progress. As matters move naturally toward success, we should prepare ourselves so that we can make the best of the new opportunities.")
 	print("In matters of business, this hexagram suggests a slow period that will give way to great success in time. In relationships and marriages, it indicates that although a previous partnership has been unsuccessful, the next will be much more rewarding.")
+
+# 25 Heaven over Thunder
+if trigram_1 == "Heaven" and trigram_2 == "Thunder":
+	print()
+	print("# 25 Wu Wang")
+	print()
+	print("Innocence, Propriety")
+	print()
+	print("Attributes: Correctness, integrity, simplicity, absence of expectations")
+	print()
+	print("This hexagram comprises Heaven over Thunder. Thunder represents natural energy, so Wu Wang suggests the regenerative life force of a burgeoning springtime, which is blessed by the heavens above.")
+	print("The creators of the I Ching saw only virtue in the expression of such energy, believing such primal innocence to be perfectly attuned to the will of heaven. Summoning this primal purity from our hearts helps to cleanse our overly complicated minds and guide us safely through life.")
+	print("A major part of this innocence is the state of living in the present. When we spend too much time calculating the results of our labor or seeking approval from others, we can undermine our efforts. We work best when we are fully present in the moment, not when we are distracted by expectations. Forethought is a proper part of our labors, but we can never force every eventuality. Wu Wang advises us to adapt to unexpected difficulties should they arise rather than cluttering our minds with possibilities that may never happen.")
+	print("When our thoughts are free from uncertainty, we can more closely reflect the natural flow of life’s energy. Guided by a blend of adult wisdom and the unclouded awareness of a child, we can progress with peace of mind and playfulness.")
