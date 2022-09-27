@@ -586,3 +586,17 @@ if trigram_1 == "Water" and trigram_2 == "Water":
 	print("The types of dangers against which the hexagram warns seem extremely daunting: robbery, burglary, deceit, entrapment, abandonment, incapacitation, alcohol abuse, and hazards around  water itself.")
 	print("However, it is also stressed that danger, correctly approached, may indeed bring us benefits. Its proximity sharpens our minds and senses, and by learning to surmount it we can emerge much stronger.")
 	print("The key to prevailing over such trials is to remain calm and establish a positive attitude. External competence in the face of danger flows naturally from inner mastery, while faith in ourselves ties the heart to life and provides the strength to endure. This is the worst possible time to be overpowered by grief or to take refuge in escapism. Through decisive action we will emerge to safety.")
+
+# 30 Fire over Fire
+if trigram_1 == "Fire" and trigram_2 == "Fire":
+	print()
+	print("# 30 Li")
+	print()
+	print("Brightness, The Clinging")
+	print()
+	print("Attributes: Cohesion, illumination, brilliance")
+	print()
+	print("This hexagram comprises Fire over Fire, suggesting both the constant splendor of sunlight above the shorter-lived luminance of terrestrial blazes and the spirits of exemplary humans. As flames cling to their source of fuel and light embraces the surfaces it reveals, so human wisdom attaches to and brightens our lives.")
+	print("Fire depends on an enduring inner source of nourishment if it is to be sustained. Often, it is difficult to maintain the fires of our enthusiasms due to our failure to supply ourselves with the right amounts of the right sort of fuel, such as inspiration and support.  The flames either die away or blaze out of our control.")
+	print("Li reminds us that in nature each living substance has found a way to survive. With patience and docility we can relearn this instinctive knowledge and move toward a more enlightened state. In business, this hexagram can also indicate that things will get brighter.")
+	print("Everything we need to know is accessible through the subconscious mind. Once unveiled, this enlightenment can be put to the service of others, illuminating their paths and revealing hope. In this quest for enlightenment we must be wary of becoming fixated with illumination of the self. Nothing of value is produced by vanity and a lack of empathy and compassion for others.")
