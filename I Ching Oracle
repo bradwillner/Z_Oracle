@@ -572,3 +572,17 @@ if trigram_1 == "Lake" and trigram_2 == "Wind":
 	print("Da Guo advises that the best course at this time is simply to move away as quickly as possible. The direction of the flight is of small importance as long as we clear out of the area of danger.")
 	print("The excessive pressure that threatens us may have been caused by our ambitions exceeding our abilities or our resources being spread too thinly. In business it may show overexpansion, which has created a shortage of funds and unrest in the workplace,")
 	print("Either way, success is still attainable if we rise to the occasion.  If we act decisively, with courage and self-discipline, all will be well. Our only truly dangerous error at this point would be inaction.")
+
+# 29 Water over Water
+if trigram_1 == "Water" and trigram_2 == "Water":
+	print()
+	print("# 29 Kan")
+	print()
+	print("The Abyss, The Perilous Pit")
+	print()
+	print("Attributes: Danger, descent, mastering pitfalls, darkness")
+	print()
+	print("This hexagram comprises Water over Water. An overabundance of water will push downward, its weight encouraging the natural tendency of the element to permeate structures. Thus these structures can be undermined and made hazardous. On the one hand, Kan relates to the depths of doubt and desperation, but on the other it suggests that our best strategy for survival at such times is to be like water ourselves:  consistent, dependable, and able to move with the currents.")
+	print("The types of dangers against which the hexagram warns seem extremely daunting: robbery, burglary, deceit, entrapment, abandonment, incapacitation, alcohol abuse, and hazards around  water itself.")
+	print("However, it is also stressed that danger, correctly approached, may indeed bring us benefits. Its proximity sharpens our minds and senses, and by learning to surmount it we can emerge much stronger.")
+	print("The key to prevailing over such trials is to remain calm and establish a positive attitude. External competence in the face of danger flows naturally from inner mastery, while faith in ourselves ties the heart to life and provides the strength to endure. This is the worst possible time to be overpowered by grief or to take refuge in escapism. Through decisive action we will emerge to safety.")
