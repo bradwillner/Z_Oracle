@@ -646,3 +646,18 @@ if trigram_1 == "Thunder" and trigram_2 == "Wind":
 	print("	In human terms, Heng follows on from the courtship aspects described by hexagram 31, evoking the notion of long and successful marriages. Where two people love and respect each other and work together with a united purpose, the relationship becomes self-contained and self-renewing. Inner gentleness and outer strength balance each other, creating a powerful and abiding foundation. Through all changes, they remain as constant in their course as the sun and moon.")
 	print("	In business and any other endeavors of importance, Heng advises us to persist in the strategies we know to be appropriate and ethical. We should resist the temptation to try easier methods of operation or to act with disloyalty and self-interest.")
 	print()
+
+# 33 Heaven over Mountain
+if trigram_1 == "Heaven" and trigram_2 == "Mountain":
+	print()
+	print("# 33 Dun (Tun)")
+	print()
+	print("Retreat, Disengagement")
+	print()
+	print("Attributes: Withdrawl, dignity, self-control, refusal to be provoked")
+	print()
+	print("This hexagram comprises Heaven over Mountain. The image suggests a mountain looming skyward in an attempt to challenge the supremacy of heaven. Heaven, however, retreats rather than being drawn into such competition.")
+	print("	Dun advises that at times when opposing darkness rises against us, the correct and honorable course is retreat rather than engagement. The skill we must learn is to recognize when such withdrawal is appropriate. Cowardice is not to be encouraged, but neither are obstinacy and belligerence when we would only exhaust ourselves and put our endeavors and colleagues in unnecessary danger.")
+	print("	At such times a constructive retreat is far wiser than allowing ourselves to be goaded into failure or to compromise with the encroaching darkness. Pride is the chief obstacle to such tactical withdrawal, so we must guard against it. Disengagement may seem distasteful at times, but is an entirely proper course if we disengage in order to prepare for a counteroffensive once situations are more favorable. We must keep our cool, allowing ourselves to be ruled not by hatred but by a sense of proportion, dignity, and prudence.")
+	print("	Unsurprisingly, Dun warns that this is an unpropitious time for launching new enterprises or embarking on new romances, relationships, or marriages.")
+	print()
