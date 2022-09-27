@@ -616,3 +616,18 @@ if trigram_1 == "Fire" and trigram_2 == "Fire":
 	print("Li reminds us that in nature each living substance has found a way to survive. With patience and docility we can relearn this instinctive knowledge and move toward a more enlightened state. In business, this hexagram can also indicate that things will get brighter.")
 	print("Everything we need to know is accessible through the subconscious mind. Once unveiled, this enlightenment can be put to the service of others, illuminating their paths and revealing hope. In this quest for enlightenment we must be wary of becoming fixated with illumination of the self. Nothing of value is produced by vanity and a lack of empathy and compassion for others.")
 	print()
+
+# 31 Lake over Mountain
+if trigram_1 == "Lake" and trigram_2 == "Mountain":
+	print()
+	print("# 31 Xian (Hsien)")
+	print()
+	print("Mutual Influence, Courtship")
+	print()
+	print("Attributes: Attraction, stimulation, sensitivty, support")
+	print()
+	print("This hexagram comprises Lake over Mountain. The lake atop the mountain symbolizes a yin influence that helps to keep a powerful yang force responsive and flexible. At the same time, the lake is supported and raised above what would otherwise have been its humbler station.")
+	print("In human terms, this beneficial interdependence is most clearly illustrated by well-matched couples who, free from selfishness and prejudice, balance each other’s extremes of yin and yang nature. ( It should be remembered in this context that yin qualities are not exclusive to women or yang to men.)")
+	print("Mutual attraction typically arises from two individuals recognizing in each other both similarities and complementary qualities. Tenderness and loyalty are required if the attraction is to transcend  seduction and become courtship and eventual bonding. Lasting beneficial associations are only possible when both parties are treated fairly and respectfully by each other.")
+	print("Xian evokes both the energy and stimulation of new romance and the commitment and joy of newlyweds. The path opens before us and great benefits are attracted into our lives. In our relationships, successful marriages may be indicated, with children soon to follow. Similarly, business dealings are highly favorable, with employers  and employees working harmoniously and expansion being imminent.")
+	print()
