@@ -631,3 +631,18 @@ if trigram_1 == "Lake" and trigram_2 == "Mountain":
 	print("Mutual attraction typically arises from two individuals recognizing in each other both similarities and complementary qualities. Tenderness and loyalty are required if the attraction is to transcend  seduction and become courtship and eventual bonding. Lasting beneficial associations are only possible when both parties are treated fairly and respectfully by each other.")
 	print("Xian evokes both the energy and stimulation of new romance and the commitment and joy of newlyweds. The path opens before us and great benefits are attracted into our lives. In our relationships, successful marriages may be indicated, with children soon to follow. Similarly, business dealings are highly favorable, with employers  and employees working harmoniously and expansion being imminent.")
 	print()
+
+# 32 Thunder over Wind
+if trigram_1 == "Thunder" and trigram_2 == "Wind":
+	print()
+	print("# 32 Heng")
+	print()
+	print("Perseverance, Constancy")
+	print()
+	print("Attributes: Steadiness, continuance, marriage, long-term partnerships")
+	print()
+	print("This hexagram comprises Thunder over Wind, both of which are impermanent forces that nevertheless recur eternally. They therefore suggest that what endures does so by remaining active rather than stagnant. Perseverance is possible through the orderly change exemplified by the changing seasons, rather than stasis.")
+	print("	The I Ching sees thunder as vigorous and wind as gentle, so the combination of these aerial powers also relates specifically to the way in which enduring forces alternate between periods of expansion and contraction, just as we survive through the duality of inhalation and exhalation.")
+	print("	In human terms, Heng follows on from the courtship aspects described by hexagram 31, evoking the notion of long and successful marriages. Where two people love and respect each other and work together with a united purpose, the relationship becomes self-contained and self-renewing. Inner gentleness and outer strength balance each other, creating a powerful and abiding foundation. Through all changes, they remain as constant in their course as the sun and moon.")
+	print("	In business and any other endeavors of importance, Heng advises us to persist in the strategies we know to be appropriate and ethical. We should resist the temptation to try easier methods of operation or to act with disloyalty and self-interest.")
+	print()
