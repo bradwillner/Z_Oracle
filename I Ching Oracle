@@ -20,7 +20,7 @@ def greet_user(name):
 		print(f"Welcome, {name}")
 		print("I am the Oracle!")
 		print()
-		print("The aim of the I Ching is to bring about balance in which celestial consciousness guides earthly awareness awareness to follow the rhythm of nature.")
+		print("The aim of the I Ching is to bring about balance in which celestial consciousness guides earthly awareness to follow the rhythm of nature.")
 		print()
 		print("Are you ready to begin?")
 		print()
