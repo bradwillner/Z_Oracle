@@ -179,7 +179,7 @@ if trigram_1 == "Heaven" and trigram_2 == "Heaven":
 	print ("This hexagram comprises Heaven over Heaven, indicating that you are like an emperor with the potential for power and strength and the ability to achieve your higher goals and visions. However, it is extremely important that you are virtuous in your intentions and steadfast in your goals and that you make it your paramount responsibility to be receptive and alert to the higher power. it is our destiny to cultivate our heavenly potential fully- failing to do so is contrary to our fundamental drives.")
 	print (" This is an auspicious omen. Once you have attained a broader perspective, you will become prosperous. This hexagram, which relates to the primal energy from which all forms of life emerge, is symbolic of success in new ventures or relationships if you understand the cycle of life, knowing when to put energy into your project or relationship and when not to persist. Take the time to rest and prepare yourself. Be assured that dynamic and creative changes are in motion. In business, you may find that activity is slow and that it is not a good time to commit yourself to long-term plans.")
 	print (" You are stong enough now to achieve your goals--use this strength only in humane, loving, moral, wise, and just ways. if you do, you will achieve sublime success. if you use your strength excessively, or are arrogant or overly ambitious, you will fail and may find yourself caught in a web of corruption; you may also lose opportunities because of complacency and carelessness.")
-
+	print()
 
 # 2 Earth over Earth
 if trigram_1 == "Earth" and trigram_2 == "Earth":
