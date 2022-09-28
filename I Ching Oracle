@@ -16,6 +16,7 @@ thunder = ["100", "Thunder"]
 
 # opening greet sequence
 def greet_user(name):
+		print()
 		print(f"Welcome, {name}")
 		print("I am the Oracle!")
 		print()
