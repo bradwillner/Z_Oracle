@@ -176,9 +176,8 @@ if trigram_1 == "Heaven" and trigram_2 == "Heaven":
 	print ("Attributes: Potent Yang energy, sublime success")
 	print ()
 	print ("This hexagram comprises Heaven over Heaven, indicating that you are like an emperor with the potential for power and strength and the ability to achieve your higher goals and visions. However, it is extremely important that you are virtuous in your intentions and steadfast in your goals and that you make it your paramount responsibility to be receptive and alert to the higher power. it is our destiny to cultivate our heavenly potential fully- failing to do so is contrary to our fundamental drives.")
-	print ()
-	print ("This is an auspicious omen. Once you have attained a broader perspective, you will become prosperous. This hexagram, which relates to the primal energy from which all forms of life emerge, is symbolic of success in new ventures or relationships if you understand the cycle of life, knowing when to put energy into your project or relationship and when not to persist. Take the time to rest and prepare yourself. Be assured that dynamic and creative changes are in motion. In business, you may find that activity is slow and that it is not a good time to commit yourself to long-term plans.")
-	print ("You are stong enough now to achieve your goals--use this strength only in humane, loving, moral, wise, and just ways. if you do, you will achieve sublime success. if you use your strength excessively, or are arrogant or overly ambitious, you will fail and may find yourself caught in a web of corruption; you may also lose opportunities because of complacency and carelessness.")
+	print (" This is an auspicious omen. Once you have attained a broader perspective, you will become prosperous. This hexagram, which relates to the primal energy from which all forms of life emerge, is symbolic of success in new ventures or relationships if you understand the cycle of life, knowing when to put energy into your project or relationship and when not to persist. Take the time to rest and prepare yourself. Be assured that dynamic and creative changes are in motion. In business, you may find that activity is slow and that it is not a good time to commit yourself to long-term plans.")
+	print (" You are stong enough now to achieve your goals--use this strength only in humane, loving, moral, wise, and just ways. if you do, you will achieve sublime success. if you use your strength excessively, or are arrogant or overly ambitious, you will fail and may find yourself caught in a web of corruption; you may also lose opportunities because of complacency and carelessness.")
 
 
 # 2 Earth over Earth
@@ -190,9 +189,8 @@ if trigram_1 == "Earth" and trigram_2 == "Earth":
 	print ()
 	print ("Attributes: Pure yin energy, the passive principle, receptivity to wise counsel")
 	print ("This hexagram comprises Earth over Earth, indicating that if you are like Mother Earth and are receptive to the energy of Heaven you will find abundance--in the receptive soil one seed may produce ten thousand seeds. This hexagram represents the primal womb, which gives birth, providing bodily form to new life.")
-
-	print ("This hexagram urges you to be receptive to guiding influences. Remember that you can yield and be responsive to Heaven's will and still be true to yourself. Choosing your own path or following your own inclinations will not work out well at the moment. Choose to follow another's wise lead, as this will meet with success. But how can you know who are your right friends and mentors? Like the ideal mother, you too must develop unconditional love--a love that is beyond emotional entanglement. You will then be able to accept your friends as they truly are and be in a better position to understand whether what they say and do is wise.")
-	print ("This hexagram advocates a gentle, steady, firm, and courageous approach to your issue. By following this path you may have to wait a little longer than you would like for the desired result, but the wait will be most rewarding. Doing things on impulse will not give you any lasting success. Thinking that you alone must control your decision will only invite disaster--when you try to control everything, everything will go out of control.")
+	print (" This hexagram urges you to be receptive to guiding influences. Remember that you can yield and be responsive to Heaven's will and still be true to yourself. Choosing your own path or following your own inclinations will not work out well at the moment. Choose to follow another's wise lead, as this will meet with success. But how can you know who are your right friends and mentors? Like the ideal mother, you too must develop unconditional love--a love that is beyond emotional entanglement. You will then be able to accept your friends as they truly are and be in a better position to understand whether what they say and do is wise.")
+	print (" This hexagram advocates a gentle, steady, firm, and courageous approach to your issue. By following this path you may have to wait a little longer than you would like for the desired result, but the wait will be most rewarding. Doing things on impulse will not give you any lasting success. Thinking that you alone must control your decision will only invite disaster--when you try to control everything, everything will go out of control.")
 	print()
 
 # 3 Water over Thunder
@@ -207,8 +205,8 @@ if trigram_1 == "Water" and trigram_2 == "Thunder":
 	print ("This hexagram comprises Water over Thunder, which suggests the image of dark clouds before a storm and subsequent heavy rain puring from the heavens. This amy appear to be a time of darkness and disorder, but sooner or later the rain and thunder will stop and the clouds will disperse, resolving chaos and helping things to germinate.")
 	print ()
 	print ("This is a period when new situations are full of potential to develop, so you should devote your energies to careful preparation and timing, and to strengthening your ability to distinguish reality from illusion.")
-	print ("As this is a time of confusion, be watchful of any corrupting influences around you that may divert you from your true path. You are young and innocent at this stage, but do not feel vulnerable, as you must attempt to make order out of disorder.  You may need to sever certain karmic links—to untangle entwined destines or to reassess certain family dynamics—particularly when negativity manifests within the family. You may have to look closely assess whether you are responding to the illusions created by false learning or social conditioning.")
-	print ("This is not a good time for action. You are advised to put your affairs into proper order and then temporarily disengage yourself. Go with the flow and a good opportunity will eventually present itself.")
+	print (" As this is a time of confusion, be watchful of any corrupting influences around you that may divert you from your true path. You are young and innocent at this stage, but do not feel vulnerable, as you must attempt to make order out of disorder.  You may need to sever certain karmic links—to untangle entwined destines or to reassess certain family dynamics—particularly when negativity manifests within the family. You may have to look closely assess whether you are responding to the illusions created by false learning or social conditioning.")
+	print (" This is not a good time for action. You are advised to put your affairs into proper order and then temporarily disengage yourself. Go with the flow and a good opportunity will eventually present itself.")
 	print()
 
 # 4 Mountain over Water
@@ -221,9 +219,9 @@ if trigram_1 == "Mountain" and trigram_2 == "Water":
 	print ("Attributes: Immaturity, inexperience, perplexity, confusion")
 	print ()
 	print ("This hexagram comprises Mountain over Water, evoking the images of a little spring in the mountains and the purity of a young mind, whcih is like an empty cup. Character must be developed just as the stream must be directed into strong channels as stable as a mountain.")
-	print ("This is a time in which to acknowledge areas of naivete, suspend mistrust of the unknown, and allow a more experienced person or expert in the relevant field to lead and instruct. The Mountain represents knowledge and Water the journey. Combined they suggest your pathway to great things--if you know how to be a good student. Develop your modesty and you will find that you will find that you will attract the attentions of a great teacher who will be receptive to your needs.")
-	print ("Alternativly, you may be called to guide one younger or less worldly than yourself, in which case you mist cultivate within yourself patience, thoughtfulness, and consistency, and within your pupil sincerity and a willingness to learn.")
-	print ("Should your student prove to be overly demanding or psychologically incapable of receiving instruction at this time, you can at least allow your forbearance and kindness to provide the student with a fine role model. In time, this person will outgrow these difficulties.")
+	print (" This is a time in which to acknowledge areas of naivete, suspend mistrust of the unknown, and allow a more experienced person or expert in the relevant field to lead and instruct. The Mountain represents knowledge and Water the journey. Combined they suggest your pathway to great things--if you know how to be a good student. Develop your modesty and you will find that you will find that you will attract the attentions of a great teacher who will be receptive to your needs.")
+	print (" Alternativly, you may be called to guide one younger or less worldly than yourself, in which case you mist cultivate within yourself patience, thoughtfulness, and consistency, and within your pupil sincerity and a willingness to learn.")
+	print (" Should your student prove to be overly demanding or psychologically incapable of receiving instruction at this time, you can at least allow your forbearance and kindness to provide the student with a fine role model. In time, this person will outgrow these difficulties.")
 	print()
 
 # 5 Water over Heaven
@@ -236,9 +234,9 @@ if trigram_1 == "Water" and trigram_2 == "Heaven":
 	print ("Attributes: Waiting, the need for nourisment, calculated inaction")
 	print ()
 	print ("This hexagram comprises Water over Heaven, which suggests clouds rising to the heavens, eventually to rain and provide nourisment from above. Rain refreshes all that grows and so ultimately provides humankind with food and drink. This gift, however, comes in its own time, rather than at our bidding, and so we mist learn to wait for it despite our need. This hexagram requires the development of patience.")
-	print ("Waiting becomes arduous only when we lack confidence that all will occur for the best in its own time. We can learn to endure apparent delays if we have steadfast faith that the future will be bright. When we approach waiting with an inner certainty that our goals will be attainable, the anticipation in itself may be a cause for celebration.")
-	print ("Xu discourages worrying and interference before the time is ripe. Rather, it recommends that we use the fallow time well, preparing ourselves both spiritually and physically. This may mean that we focus on nourishing the body wisely to enrich and complete the soul.")
-	print ("Acceptance of waiting does not mean abandoning ambititon. By allowing us to nourish our bodies and spirits, patience strengthens our ability to grasp opportunities.")
+	print (" Waiting becomes arduous only when we lack confidence that all will occur for the best in its own time. We can learn to endure apparent delays if we have steadfast faith that the future will be bright. When we approach waiting with an inner certainty that our goals will be attainable, the anticipation in itself may be a cause for celebration.")
+	print (" Xu discourages worrying and interference before the time is ripe. Rather, it recommends that we use the fallow time well, preparing ourselves both spiritually and physically. This may mean that we focus on nourishing the body wisely to enrich and complete the soul.")
+	print (" Acceptance of waiting does not mean abandoning ambititon. By allowing us to nourish our bodies and spirits, patience strengthens our ability to grasp opportunities.")
 	print()
 
 # 6 Heaven over Water
@@ -251,9 +249,9 @@ if trigram_1 == "Heaven" and trigram_2 == "Water":
 	print ("Attributes: Quarrels, disputes, litigation, argumentative natures")
 	print ()
 	print ("This hexagram comprises Heaven over Water, which suggests a necessary divergence. Heaven's nature is to rise, while water's is to descend. Water parts from heaven as gravity draws rain from clouds, and social harmony is pulled apart by differences of opinion. The inner peace and independence represented by the Heaven trigram is undermined by the heaviness of Water.")
-	print ("Where such divergence of nature or ideas occurs, situations may rapidly turn udly--unless we remain clearheaded and ready to meet opponents halfway. Rather than personally pushing matters to the limit (even though we may have justifiable cause), it is wise to seek arbitraition from an impartial, experienced mediator.")
-	print ("In divination, Song recommends calmness and caution. For example, if the question asked conerns business, any great undertakings are advised against; if marriage is the issue, the prospects are not favorable. Song also advises us to keep a close eye on our tempers.")
-	print ("It should also be remembered that much outer conflict is ultimately a reflection of conflicts within ourselves. Many misunderstandings and arguments can be avoided if we remain true to our inner feelings and reluctant to indulge in anger, self-righteousness, and suspicion.")
+	print (" Where such divergence of nature or ideas occurs, situations may rapidly turn udly--unless we remain clearheaded and ready to meet opponents halfway. Rather than personally pushing matters to the limit (even though we may have justifiable cause), it is wise to seek arbitraition from an impartial, experienced mediator.")
+	print (" In divination, Song recommends calmness and caution. For example, if the question asked conerns business, any great undertakings are advised against; if marriage is the issue, the prospects are not favorable. Song also advises us to keep a close eye on our tempers.")
+	print (" It should also be remembered that much outer conflict is ultimately a reflection of conflicts within ourselves. Many misunderstandings and arguments can be avoided if we remain true to our inner feelings and reluctant to indulge in anger, self-righteousness, and suspicion.")
 	print()
 
 # 7 Earth over Water
@@ -266,9 +264,9 @@ if trigram_1 == "Earth" and trigram_2 == "Water":
 	print ("Attributes: Gathering your forces, competition, war")
 	print ()
 	print ("This hexagram comprises Earth over Water. Water is collecting in the ground and, in overabundance, may become a powerful destabilizing force. As Earth in this case represents massed humanity, Shi warns of potential danger to the multitudes.")
-	print ("At a national level, these dangers may be lessened by the existence of a well-orderd and disciplined army. People assembled in an army are powerful, but if poorly trained and led they may be dangerous to themselves. Therefore Shi stresses that the general of the forces must be loyal, experienced, and dedicated to the benefit of all.")
-	print ("In battle the success of an army depends on the degree of trust the soldiers place in their commanders. Since the purpose of military affairs must at all times be righteous, only a person of genuinely noble character should take charge.")
-	print ("Shi often indicates that we should develop our own leadership qualities in our business or social lives, but also encourages us to achieve the correct relationship between the stronger and inferior elements of our personalities. Like an army, our personalities require self-discipline and honorable leadership--in this case, from our higher selves.")
+	print (" At a national level, these dangers may be lessened by the existence of a well-orderd and disciplined army. People assembled in an army are powerful, but if poorly trained and led they may be dangerous to themselves. Therefore Shi stresses that the general of the forces must be loyal, experienced, and dedicated to the benefit of all.")
+	print (" In battle the success of an army depends on the degree of trust the soldiers place in their commanders. Since the purpose of military affairs must at all times be righteous, only a person of genuinely noble character should take charge.")
+	print (" Shi often indicates that we should develop our own leadership qualities in our business or social lives, but also encourages us to achieve the correct relationship between the stronger and inferior elements of our personalities. Like an army, our personalities require self-discipline and honorable leadership--in this case, from our higher selves.")
 	print()
 	
 # 8 Water over earth
@@ -281,8 +279,8 @@ if trigram_1 == "Water" and trigram_2 == "Earth":
 	print ("Attributes: Accord, alignment, integration, cohesion, support")
 	print ()
 	print ("This hexagram comprises Water over Earth. The waters of the upper trigram mingle as they traverse the land of the lower trigram, forming streams and rivers until they blend in the ocean, hence Bi's central image of union and mutual help. The five yielding lines of the hexagram hold together because the strong fifth line unites them. The leading position of this line ensures that all may further their truest intersts.")
-	print ("As the waters grow strong through union, so do communities. Nothing is more auspicious than harmonious relationships between individuals. To survive and flourish, people must love and care for each other. Our bonds should be as strong as those of a mother and child.")
-	print ("To achieve this we must pay attention not only to those around us but also to our inner selves. Through our mistakes and misunderstandings, we discover the guidelines that make relationships work. We must cultivate a sincere desire for harmony and mutual support in our friendships, communities, and workplaces.")
+	print (" As the waters grow strong through union, so do communities. Nothing is more auspicious than harmonious relationships between individuals. To survive and flourish, people must love and care for each other. Our bonds should be as strong as those of a mother and child.")
+	print (" To achieve this we must pay attention not only to those around us but also to our inner selves. Through our mistakes and misunderstandings, we discover the guidelines that make relationships work. We must cultivate a sincere desire for harmony and mutual support in our friendships, communities, and workplaces.")
 	print()
 	
 # 9 Wind over Heaven
@@ -295,9 +293,9 @@ if trigram_1 == "Wind" and trigram_2 == "Heaven":
 	print ("Attributes: Delays, hinderance, quiet accumulation, storing up energy")
 	print ()
 	print ("This hexagram comprises Wind over Heaven, suggesting the calm movement of clouds across the sky. This indicates that change is possible, but only in relatively insubstantial and fleeting matters. The sole yin line needs time to accumulate strength before lasting results are achievable.")
-	print ("Xiao Xu tells us that our influence is currently limited by external circumstances. Progress appears to have come to a standstill, perhaps in the face of small obstructions brought about by our inexperience. In the face of such delays, we should devote ourselves to rest and preparation. With little ability to exert our influence on external reality, this is a time for refining our inner worlds.")
-	print ("While we might at this time appear overly submissive, thereby discouraging the confidence of others, we can nevertheless make small changes through gentle, friendly persuasion. Self-discipline must be cultivated to prevent ambition from exerting negative pressure.")
-	print ("In all things, this hexagram advises of patience and caution. In business, it recommends preparation for new developments. In relationships and marriage, it warns of temporary trouble and suspicion. It is essential not to compromise our characters in the face of these small tribulations. Great lessons may be learned from small matters.")
+	print (" Xiao Xu tells us that our influence is currently limited by external circumstances. Progress appears to have come to a standstill, perhaps in the face of small obstructions brought about by our inexperience. In the face of such delays, we should devote ourselves to rest and preparation. With little ability to exert our influence on external reality, this is a time for refining our inner worlds.")
+	print (" While we might at this time appear overly submissive, thereby discouraging the confidence of others, we can nevertheless make small changes through gentle, friendly persuasion. Self-discipline must be cultivated to prevent ambition from exerting negative pressure.")
+	print (" In all things, this hexagram advises of patience and caution. In business, it recommends preparation for new developments. In relationships and marriage, it warns of temporary trouble and suspicion. It is essential not to compromise our characters in the face of these small tribulations. Great lessons may be learned from small matters.")
 	print()
 
 # 10 Heaven over Lake
@@ -310,9 +308,9 @@ if trigram_1 == "Heaven" and trigram_2 == "Lake":
 	print ("Attributes: Dignified conduct, comportment, taking a risk but watching your step")
 	print ()
 	print ("This hexagram comprises Heaven over Lake, two foreces so greatly separated by the distance between the that no disharmony arises. The lower trigram is likened to a trusting and cheerful daughter finding her way without mistakes by treading in the footsteps of her powerful father, represented by the upper trigram(the word lu originally meant shoes.")
-	print ("The path taken may be unfamiliar and fraught with danger, but with careful planning and sensible precautions harm will be avoided. Where no immediate peril looms, time should be spent considering those dangers that may lie ahead.")
-	print ("The precarious situations alluded to by this hexagram are often of a social nature. Lu advises us to behave with decorum, diplomacy, and good humor, safe in the knowledge that these may pacify even the most irritating of individuals. It suggests that a sufficiently tactful individual might even tread on a tiger's tail without incurring a reprisal, while an aggressive person practically invites the tiger to bite.")
-	print ("This gentleness of nature and consistency of a manners may be learned from those whom we like and respect, again as the child may learn the ways of the world by following a wise parents footsteps.")
+	print (" The path taken may be unfamiliar and fraught with danger, but with careful planning and sensible precautions harm will be avoided. Where no immediate peril looms, time should be spent considering those dangers that may lie ahead.")
+	print (" The precarious situations alluded to by this hexagram are often of a social nature. Lu advises us to behave with decorum, diplomacy, and good humor, safe in the knowledge that these may pacify even the most irritating of individuals. It suggests that a sufficiently tactful individual might even tread on a tiger's tail without incurring a reprisal, while an aggressive person practically invites the tiger to bite.")
+	print (" This gentleness of nature and consistency of a manners may be learned from those whom we like and respect, again as the child may learn the ways of the world by following a wise parents footsteps.")
 	print()
 
 # 11 Earth over Heaven
@@ -325,9 +323,9 @@ if trigram_1 == "Earth" and trigram_2 == "Heaven":
 	print ("Attributes: Contentment, Communion, Perfect Balance, Fecundity")
 	print ()
 	print ("This hexagram comprises Earth over Heaven, a particularly favorable combination. The commingling of earth qi and heaven qi produces a period of tranquility and fruitfulness. As if this is an idealized country of the imagination, negativity is consistently counterbalanced and transformed by positive energies. The atmosphere is like that of a bright day in the early spring.")
-	print ("In this environment, great ideas and a spirit of compassion and benevolence effectively oust pettiness. Individuals support each other like a mother Earth and father Heaven, all acting respectful and loving unity. Rising above self-interst, family, friends, and colleagues find it unusually effortless to preserve harmony.")
-	print ("While the time is highly favorable for all projects concerned with communal success, we are encouraged to increase good fortune through the maintenance of our own goodwill and healthy attitudes. These are also easier than usual to achieve since, like the harmony of heaven and earth, our conscious and subconscious minds will be working very compatibly.")
-	print ("The word tai is considered highly auspicious in Chinese, hence the hexagram suggests a time when success is easy to come by. Small investments will yield large profits")
+	print (" In this environment, great ideas and a spirit of compassion and benevolence effectively oust pettiness. Individuals support each other like a mother Earth and father Heaven, all acting respectful and loving unity. Rising above self-interst, family, friends, and colleagues find it unusually effortless to preserve harmony.")
+	print (" While the time is highly favorable for all projects concerned with communal success, we are encouraged to increase good fortune through the maintenance of our own goodwill and healthy attitudes. These are also easier than usual to achieve since, like the harmony of heaven and earth, our conscious and subconscious minds will be working very compatibly.")
+	print (" The word tai is considered highly auspicious in Chinese, hence the hexagram suggests a time when success is easy to come by. Small investments will yield large profits")
 	print()
 
 # 12 Heaven over Earth
@@ -340,9 +338,9 @@ if trigram_1 == "Heaven" and trigram_2 == "Earth":
 	print ("Attributes: Disharmony, Contraction, Obstruction, Adversity, Estrangement")
 	print ()
 	print ("This hexagram comprises Heaven over Earth. While the two trigrams reversed positions in hexagram 11 indicated a beneficial commingling of Earth and Heaven, here the two are distant and alienated from each other. The result is obstruction and negativity. Where there is strength at the top and weakness below, things can easily collapse; where there is strength without and weakness within, there is only superficiality and fragility.")
-	print ("This sort of skin-deep strength is often found in the sorts of people who come into ascendance in a period associated with Pi. Their public bravado and arrogance is frequently  a facade for a very feeble spirit within. In time these weak rulers will be recognized as such and overthrown, but the damage they do often outlives them.")
-	print ("When such individuals dominate, those of more substance are undervalued or disliked and must firmly resist any temptation to sell their integrity  for favor or fortune. Further problems are all we can expect to encounter if we permit ourselves to be caught up in false thinking.")
-	print ("In such periods of adversity, Pi reminds us to remain steadfast and remember that all conditions are temporary and that better times must necessarily lie ahead.")
+	print (" This sort of skin-deep strength is often found in the sorts of people who come into ascendance in a period associated with Pi. Their public bravado and arrogance is frequently  a facade for a very feeble spirit within. In time these weak rulers will be recognized as such and overthrown, but the damage they do often outlives them.")
+	print (" When such individuals dominate, those of more substance are undervalued or disliked and must firmly resist any temptation to sell their integrity  for favor or fortune. Further problems are all we can expect to encounter if we permit ourselves to be caught up in false thinking.")
+	print (" In such periods of adversity, Pi reminds us to remain steadfast and remember that all conditions are temporary and that better times must necessarily lie ahead.")
 	print()
 
 # 13 Heaven over Fire
@@ -355,9 +353,9 @@ if trigram_1 == "Heaven" and trigram_2 == "Fire":
 	print ("Attributes: Comradeship, community, like-minded people, seeking harmony")
 	print ()
 	print ("This hexagram comprises Heaven over Fire and suggests flames, like human spirits, rising to the heavens as if seeing their reflection in the sun and stars. As individual flames are more easily extinguished  than a bonfire, so may the human spirit ascend more powerfully when it is in unity with others.")
-	print ("True community is much more than a mere mass of humanity, and so Tong Ran emphasizes the value of those who have the capacity for leadership and the ability to organize and create a unifying group purpose. Alliances are dependent upon common ground  and shared goals and activities. We must be reminded that we all come from the same source and that the sun shines equally upon all.")
-	print ("Among the most potent of enemies of community are factionalism, suspicion, and secrecy— hence Tong Ren’s  title of “Gathering in the field,” a place of openness, not physical and spiritual. Secret reservations and unhelpful attitudes must be brought out into the open where they can be gently and respectfully corrected.")
-	print ("The creation of such communities will not eradicate challenges, but if the groups unity is maintained these can be met bravely with expectations of eventual success.")
+	print (" True community is much more than a mere mass of humanity, and so Tong Ran emphasizes the value of those who have the capacity for leadership and the ability to organize and create a unifying group purpose. Alliances are dependent upon common ground  and shared goals and activities. We must be reminded that we all come from the same source and that the sun shines equally upon all.")
+	print (" Among the most potent of enemies of community are factionalism, suspicion, and secrecy— hence Tong Ren’s  title of “Gathering in the field,” a place of openness, not physical and spiritual. Secret reservations and unhelpful attitudes must be brought out into the open where they can be gently and respectfully corrected.")
+	print (" The creation of such communities will not eradicate challenges, but if the groups unity is maintained these can be met bravely with expectations of eventual success.")
 	print()
 	
 # 14 Fire over Heaven
@@ -370,9 +368,9 @@ if trigram_1 == "Fire" and trigram_2 == "Heaven":
 	print ("Attributes: Wealth, vast resources, a great harvest")
 	print ()
 	print ("This hexagram comprises Fire over Heaven—the Fire above being, naturally, the sun shining over the land, while Heaven below indicates an inner strength with outer clarity.  In this radiant situation, obstacles have melted away to allow the manifestation of magnificent prosperity and abundance.")
-	print ("In this atmosphere of clarity, we can confidently do the right things at the right time to endure a fine harvest.  Such bounty, however, will have its drawbacks unless it is accompanied by a commitment to maintain the harmony that initially created this time of prosperity and peace.")
-	print ("The primary danger to which Da You alerts us is the pride that often follows on the heels of success. Arrogance will lose friends, gain enemies, and undermine the foundation of our achievements. Similarly, many have frittered away both their gains and their support through the self-indulgent pursuit of luxuries.")
-	print ("In contrast, remaining humble and generous in the midst of plenty allows for continued growth and increased respect. Wealth and personal power are both increased when these are seen as responsibilities rather than mere possessions. Great success occurs when we are in harmony with the cosmos.")
+	print (" In this atmosphere of clarity, we can confidently do the right things at the right time to endure a fine harvest.  Such bounty, however, will have its drawbacks unless it is accompanied by a commitment to maintain the harmony that initially created this time of prosperity and peace.")
+	print (" The primary danger to which Da You alerts us is the pride that often follows on the heels of success. Arrogance will lose friends, gain enemies, and undermine the foundation of our achievements. Similarly, many have frittered away both their gains and their support through the self-indulgent pursuit of luxuries.")
+	print (" In contrast, remaining humble and generous in the midst of plenty allows for continued growth and increased respect. Wealth and personal power are both increased when these are seen as responsibilities rather than mere possessions. Great success occurs when we are in harmony with the cosmos.")
 	print()
 
 # 15 Earth over Mountain
@@ -385,9 +383,9 @@ if trigram_1 == "Earth" and trigram_2 == "Mountain":
 	print ("Attributes: Stability of mind, lack of pretension, propriety")
 	print ()
 	print ("This hexagram comprises Earth over Mountain. Typically, the mountain looms majestically over the lowly earth—the reversal of this order in Qian indicates the elevation of the humble by virtue of humility itself. Thus Qian elaborates on the hexagram 14’s warning against arrogance. ")
-	print ("Humility is a quality of the mature mind, rather than an innate quality, and so it needs to be cultivated. In the undeveloped mind, boasting often attends ambition, and pride and self-importance follow personal success. We need to be on guard against both these conditions, remaining mindful that even if we climb the highest peak we are sill standing on the same earth as all humanity.")
-	print ("Only the genuinely  humble are capable of leading effectively, acknowledging that extremes of inequality are the source of discontent.  Ostentation, whether conscious or carelessly exhibited through discourtesy and a refusal to curb bad personal habits, ultimately erodes success, while a conscientious devotion to deference, respectfulness, and correctness for their own sakes strengthens all.")
-	print ("Restraining our egos and refusing to be seduced by pride, we are well placed to work well with others, regardless of position, age, or gender. We may, however, need to watch out for people who try to take advantage of our humility for their own ends.")
+	print (" Humility is a quality of the mature mind, rather than an innate quality, and so it needs to be cultivated. In the undeveloped mind, boasting often attends ambition, and pride and self-importance follow personal success. We need to be on guard against both these conditions, remaining mindful that even if we climb the highest peak we are sill standing on the same earth as all humanity.")
+	print (" Only the genuinely  humble are capable of leading effectively, acknowledging that extremes of inequality are the source of discontent.  Ostentation, whether conscious or carelessly exhibited through discourtesy and a refusal to curb bad personal habits, ultimately erodes success, while a conscientious devotion to deference, respectfulness, and correctness for their own sakes strengthens all.")
+	print (" Restraining our egos and refusing to be seduced by pride, we are well placed to work well with others, regardless of position, age, or gender. We may, however, need to watch out for people who try to take advantage of our humility for their own ends.")
 	print()
 
 # 16 Thunder over Earth
@@ -400,9 +398,9 @@ if trigram_1 == "Thunder" and trigram_2 == "Earth":
 	print ("Attributes: Vigorous action, delight, expression")
 	print ()
 	print ("This hexagram comprises Thunder over Earth, evoking the image of the first thunderstorms of summer. The crashing sound from the clouds banishes the tensions of a period of relative inactivity, and to the relief of all the earth begins to stir.")
-	print ("Similarly, Yu describes the welling up and release of energy within us, whether self-generated or evoked by the animation and enthusiasm of a great motivator. Like the thunder, this effusive energy acts as the firing of a starting gun or a clarion’s call to action.")
-	print ("This exuberance is often accompanied and intensified by celebration, feasting, and music. Leaders, religious and secular, have relied upon these methods to raise the spirits of their people for as long as humanity has existed, ensuring that all share in the festivities and happiness. Such confidence and eagerness also inspire loyalty and diligence in supporters and staff.")
-	print ("Such outpourings of giving and receiving, pleasure, and satisfaction will bring together parties of all sides, clearing away obstacles to the realization of our joint aspirations. United in delight and devotion,  the community will embark on great undertakings without fear. The only danger lies in a leader’s exploiting this enthusiasm for self-indulgent ends.")
+	print (" Similarly, Yu describes the welling up and release of energy within us, whether self-generated or evoked by the animation and enthusiasm of a great motivator. Like the thunder, this effusive energy acts as the firing of a starting gun or a clarion’s call to action.")
+	print (" This exuberance is often accompanied and intensified by celebration, feasting, and music. Leaders, religious and secular, have relied upon these methods to raise the spirits of their people for as long as humanity has existed, ensuring that all share in the festivities and happiness. Such confidence and eagerness also inspire loyalty and diligence in supporters and staff.")
+	print (" Such outpourings of giving and receiving, pleasure, and satisfaction will bring together parties of all sides, clearing away obstacles to the realization of our joint aspirations. United in delight and devotion,  the community will embark on great undertakings without fear. The only danger lies in a leader’s exploiting this enthusiasm for self-indulgent ends.")
 	print()
 
 # 17 Lake over Thunder
@@ -415,9 +413,9 @@ if trigram_1 == "Lake" and trigram_2 == "Thunder":
 	print ("Attributes: Appropriate change, leading from behind")
 	print ()
 	print ("This hexagram comprises Lake over Thunder. As Thunder is associated with movement and Lake with joy, the image suggested is one of quietly rippling wavelets caused by an exuberant power that has humbled itself.")
-	print ("In human terms such joy in movement relates to the way in which a wise leader induces people to follow. To lead well, we must understand our place within a situation and the positions of those who look to us for guidance. We must learn how to serve before we can reliably lead, and how to follow before we can expect followers. Without such knowledge we may be tempted to fall back on coercion and cunning, which will only bring resentment and resistance.")
-	print ("We must also learn when to act and when to refrain from action in order to restore our energy. A long period of relentless excitement will lead to ill fortune. We may experience frustration during periods of enforced rest, but this dissatisfaction can in itself be a strong motivation to great achievement. Conversely, no situation will be truly favorable unless we are able to adapt to it.")
-	print ("However, Sui generally indicates a time of gentle, persistent progress during which errors are easily avoided.")
+	print (" In human terms such joy in movement relates to the way in which a wise leader induces people to follow. To lead well, we must understand our place within a situation and the positions of those who look to us for guidance. We must learn how to serve before we can reliably lead, and how to follow before we can expect followers. Without such knowledge we may be tempted to fall back on coercion and cunning, which will only bring resentment and resistance.")
+	print (" We must also learn when to act and when to refrain from action in order to restore our energy. A long period of relentless excitement will lead to ill fortune. We may experience frustration during periods of enforced rest, but this dissatisfaction can in itself be a strong motivation to great achievement. Conversely, no situation will be truly favorable unless we are able to adapt to it.")
+	print (" However, Sui generally indicates a time of gentle, persistent progress during which errors are easily avoided.")
 	print()
 
 # 18 Mountain over Wind
@@ -430,9 +428,9 @@ if trigram_1 == "Mountain" and trigram_2 == "Wind":
 	print("Attributes: Degeneration, corruption, healing, confronting the past")
 	print()
 	print("This hexagram comprises Mountain over Wind, which suggests a low wind being halted in its process by the mountain’s bulk. In turn the blustering air currents destroy the plants at the foot of the mountain. Similarly, in human affairs, lax attitudes create problems, which accumulate and introduce corruption into the community.")
-	print("Gu advises us to look for such defects in ourselves and in our environment and to take steps to repair the damage at the root so it does not recur. Whether the problems are caused by old bad habits, character defects, or poor organization, unless they are dealt with at the core level the cycle will continue to repeat disastrously.")
-	print("While this hexagram strongly recommends the turning over of a new leaf, it also advises caution and clear thought both before and after change is implemented.  There is no point in change if it sacrifices long-term benefits for short-term gain. Correctly identifying and dealing with areas of degeneration and chaos will,  however, clear the way to rebirth and great success.")
-	print("In business, Gu warns of poorly organized finances; in relationships, conflicts caused by differing temperaments and lifestyles; and in health, troubles from impurities and parasites.")
+	print(" Gu advises us to look for such defects in ourselves and in our environment and to take steps to repair the damage at the root so it does not recur. Whether the problems are caused by old bad habits, character defects, or poor organization, unless they are dealt with at the core level the cycle will continue to repeat disastrously.")
+	print(" While this hexagram strongly recommends the turning over of a new leaf, it also advises caution and clear thought both before and after change is implemented.  There is no point in change if it sacrifices long-term benefits for short-term gain. Correctly identifying and dealing with areas of degeneration and chaos will,  however, clear the way to rebirth and great success.")
+	print(" In business, Gu warns of poorly organized finances; in relationships, conflicts caused by differing temperaments and lifestyles; and in health, troubles from impurities and parasites.")
 	print()
 
 # 19 Earth over Lake
@@ -445,9 +443,9 @@ if trigram_1 == "Earth" and trigram_2 == "Lake":
 	print("Attributes: Prevailing, becoming great, being recieved, making connections")
 	print()
 	print("This hexagram comprises Earth over lake, suggesting a lake nestled in high ground as if being nurtured in the protection of a stronger power. Both the depth of the waters and the inexhaustible bounty of the earth betoken the unlimited readiness of the wisest people to sustain and educate others. Lin observes that like children being advised by a firm but kindly parents we currently in an excellent position to receive instruction vital to our development. ")
-	print("Sustained by good examples and our willingness to learn, we may become like nature at the beginning of spring: hopeful, steadily flourishing, and able to move forward, toward maximum potency. If we are able to read the signs of the times, this period will be one of steady advancement and expansion. ")
-	print("To make the best of this, we must be constantly vigilant, examining our thoughts and motives for any small errors that might also grow as we progress. With foresight, many obstacles can be warded off before they manifest fully.")
-	print("Like many other hexagrams, Lin warns us not to fall prey to self-importance and lack of discipline as we observe our progress. We must remain balanced between a trusting obedience to our guides and magnanimity toward others as we protect them.")
+	print(" Sustained by good examples and our willingness to learn, we may become like nature at the beginning of spring: hopeful, steadily flourishing, and able to move forward, toward maximum potency. If we are able to read the signs of the times, this period will be one of steady advancement and expansion. ")
+	print(" To make the best of this, we must be constantly vigilant, examining our thoughts and motives for any small errors that might also grow as we progress. With foresight, many obstacles can be warded off before they manifest fully.")
+	print(" Like many other hexagrams, Lin warns us not to fall prey to self-importance and lack of discipline as we observe our progress. We must remain balanced between a trusting obedience to our guides and magnanimity toward others as we protect them.")
 	print()
 
 # 20 Wind over earth
@@ -460,9 +458,9 @@ if trigram_1 == "Wind" and trigram_2 == "Earth":
 	print("Attributes: Watching, looking down from above, meditation, mental or physical traveling")
 	print()
 	print("This hexagram comprises Wind over Earth. Just as the wind may freely and widely travel over the earth, Guan advises that our thoughts and perceptions should do likewise. Mental clarity is emphasized, since a wind that carries clouds of dust with it will only obscure that which should be observed.")
-	print("The shape of the hexagram is reminiscent of traditional Chinese towers, an image that stresses how much more we can see from a high position that from the ground. Likewise, we perceive more with a calm, detached mind that with one embroiled in everyday life. Guan therefore recommends temporary withdrawal  in order to study our surrounding and contemplate the future.")
-	print("At the same time, we must not make the mistake of feeling absent from the situation. Even the watcher from the tower is part of the landscape. ")
-	print("In order to understand the state of affairs,  we may be called upon  either to travel or to gather information through research. This should in both cases be augmented by meditation. While much is learned from what is seen, the inner flow of life is equally important. We should listen to the unseen and gaze into the spaces between words and between breaths.")
+	print(" The shape of the hexagram is reminiscent of traditional Chinese towers, an image that stresses how much more we can see from a high position that from the ground. Likewise, we perceive more with a calm, detached mind that with one embroiled in everyday life. Guan therefore recommends temporary withdrawal  in order to study our surrounding and contemplate the future.")
+	print(" At the same time, we must not make the mistake of feeling absent from the situation. Even the watcher from the tower is part of the landscape. ")
+	print(" In order to understand the state of affairs,  we may be called upon  either to travel or to gather information through research. This should in both cases be augmented by meditation. While much is learned from what is seen, the inner flow of life is equally important. We should listen to the unseen and gaze into the spaces between words and between breaths.")
 	print()
 
 # 21 Fire over Thunder
@@ -475,9 +473,9 @@ if trigram_1 == "Fire" and trigram_2 == "Thunder":
 	print("Attributes: Eradicating obstacles, judging, restoring order, confronting negativity")
 	print()
 	print("This hexagram comprises Fire over Thunder, a combination evoking the lighting accompanying a thunderstorm. This image suggests the way in which nature forces through obstacles and restores imbalances of tension. Shi He advises that in human affairs problems should likewise be illuminated with the lightning flash of clear insight and shaken apart by the thunder of unleashed energy.")
-	print("The shape of Shi He also suggests an open mouth ( the yang lines on the top and bottom being the lips) with something in it. Shi means “to bite” and He means “to close”- action to remove obstacles is reinforced by the image of biting through the obstruction.")
-	print("In society such eradication of disorder must be governed by an effective and honorable justice system. Legal arguments are also suggested if the obstacle in the mouth is thought of as words that need to be spoken. The law must be properly administered  if social harmony is to prevail. Punishment is sometimes required but must be appropriate to the crime and free from vindictiveness.")
-	print("Shi He often portends a legal action or the appearance of a third party in a marriage or relationship, causing a disruption that will diminish in the face of patience.")
+	print(" The shape of Shi He also suggests an open mouth ( the yang lines on the top and bottom being the lips) with something in it. Shi means “to bite” and He means “to close”- action to remove obstacles is reinforced by the image of biting through the obstruction.")
+	print(" In society such eradication of disorder must be governed by an effective and honorable justice system. Legal arguments are also suggested if the obstacle in the mouth is thought of as words that need to be spoken. The law must be properly administered  if social harmony is to prevail. Punishment is sometimes required but must be appropriate to the crime and free from vindictiveness.")
+	print(" Shi He often portends a legal action or the appearance of a third party in a marriage or relationship, causing a disruption that will diminish in the face of patience.")
 	print()
 
 # 22 Mountain over Fire
@@ -490,10 +488,10 @@ if trigram_1 == "Mountain" and trigram_2 == "Fire":
 	print("Attributes: Glamour, elegance, glow, presentation")
 	print()
 	print("This hexagram comprises Mountain over Fire. This suggests the just-rising sun at dawn or the low-setting sun at dusk, or a bonfire at the foot of the mountain illuminating and emphasizing its beauty. There is great value and inspiration to be taken from such natural beauties, although we must remain careful not to perceive surface appearances only- we must remember to see beyond superficialities.")
-	print("Appreciation of beauty inclines us toward harmony and precision rather than chaos and carelessness. Whenever our aesthetic sensibilities urge us to adorn nature or society, this should be focused solely on abiding value and importance.")
-	print("Such guidelines often seem admirable in theory but fail in practice. In ourselves, overemphasis on surface beauty can eclipse our natural grace, leading to reckless and unfair judgments, pretense, and bravado.")
-	print("We must maneuver carefully and thoughtfully- do not be dazzled by surface appearances, but assess the true ramifications of the situation. In particular,  beware of taking legal matters lightly.")
-	print("Contemplation of the resplendency of form is enriching, but we must not take its permanency for granted. Its fleeting nature instructs us in the nature of time and being and so reveals the beauty of the spirit and the worlds behind this world.")
+	print(" Appreciation of beauty inclines us toward harmony and precision rather than chaos and carelessness. Whenever our aesthetic sensibilities urge us to adorn nature or society, this should be focused solely on abiding value and importance.")
+	print(" Such guidelines often seem admirable in theory but fail in practice. In ourselves, overemphasis on surface beauty can eclipse our natural grace, leading to reckless and unfair judgments, pretense, and bravado.")
+	print(" We must maneuver carefully and thoughtfully- do not be dazzled by surface appearances, but assess the true ramifications of the situation. In particular,  beware of taking legal matters lightly.")
+	print(" Contemplation of the resplendency of form is enriching, but we must not take its permanency for granted. Its fleeting nature instructs us in the nature of time and being and so reveals the beauty of the spirit and the worlds behind this world.")
 	print()
 
 # 23 Mountain over Earth
@@ -506,9 +504,9 @@ if trigram_1 == "Mountain" and trigram_2 == "Earth":
 	print("Attributtes: Decay, fragmentation, collapse from within, falling away")
 	print()
 	print("This hexagram comprises Mountain over Earth. A mountain standing alone on the earth is exposed to the elements and will in time be worn down by erosion and landslide. Similarly, all our achievements will eventually be prone to forces of disintegration.")
-	print("The shape of the Po hexagram suggests weakness rising from within. Specifically, it resembles a house splitting apart, held together only by the roof (the top line). Dark inferior forces gradually undermine what is superior, so that collapse is inescapable. There is little support and no strength within.")
-	print("When such conditions take hold, no action or intervention proves useful. We should not attempt to postpone the inevitable, but should use the time for patient planning and consolidation. We must view the adversity dispassionately and derive every possible lesson from the situation to avoid repeating mistakes. In business, it is a good time to be careful, work hard, and wait for better times.")
-	print("Remaining conscious that it is darkest before the dawn, we should hold on to hope and also the certainty of improvement. To prepare for the new beginning, those with knowledge should pass it on to those with less and those with money and power should be aware of their responsibility to help others.")
+	print(" The shape of the Po hexagram suggests weakness rising from within. Specifically, it resembles a house splitting apart, held together only by the roof (the top line). Dark inferior forces gradually undermine what is superior, so that collapse is inescapable. There is little support and no strength within.")
+	print(" When such conditions take hold, no action or intervention proves useful. We should not attempt to postpone the inevitable, but should use the time for patient planning and consolidation. We must view the adversity dispassionately and derive every possible lesson from the situation to avoid repeating mistakes. In business, it is a good time to be careful, work hard, and wait for better times.")
+	print(" Remaining conscious that it is darkest before the dawn, we should hold on to hope and also the certainty of improvement. To prepare for the new beginning, those with knowledge should pass it on to those with less and those with money and power should be aware of their responsibility to help others.")
 	print()
 
 # 24 Earth over Thunder
@@ -521,9 +519,9 @@ if trigram_1 == "Earth" and trigram_2 == "Thunder":
 	print("Attributes: Resurgence, renewal, cycles, fresh beginnings")
 	print("")
 	print("This hexagram comprises Earth over Thunder.  This suggests an awareness of renewed vitality, represented by the energizing thunder over the sleeping earth. For this reason, Fu is associated with the winter solstice, the day after which the hours of sunlight increase. Although the weather remains cold and desolate, the seeds of warmth and light are beginning to grow.")
-	print("The promise of revival implicit in hexagram 23 starts to actualize in Fu. The cycle of existence moves steadily toward a better future and so we need not push matters at this time. Transformation of  the old comes easily and forward motion continues without obstruction but it moves at its own pace. We mist cultivate wisdom and patience as these new adventures unfold.")
-	print("All new beginning must be treated with special  care, and like someone returning to health after illness, we must not allow impetuosity to impede our progress. As matters move naturally toward success, we should prepare ourselves so that we can make the best of the new opportunities.")
-	print("In matters of business, this hexagram suggests a slow period that will give way to great success in time. In relationships and marriages, it indicates that although a previous partnership has been unsuccessful, the next will be much more rewarding.")
+	print(" The promise of revival implicit in hexagram 23 starts to actualize in Fu. The cycle of existence moves steadily toward a better future and so we need not push matters at this time. Transformation of  the old comes easily and forward motion continues without obstruction but it moves at its own pace. We mist cultivate wisdom and patience as these new adventures unfold.")
+	print(" All new beginning must be treated with special  care, and like someone returning to health after illness, we must not allow impetuosity to impede our progress. As matters move naturally toward success, we should prepare ourselves so that we can make the best of the new opportunities.")
+	print(" In matters of business, this hexagram suggests a slow period that will give way to great success in time. In relationships and marriages, it indicates that although a previous partnership has been unsuccessful, the next will be much more rewarding.")
 	print()
 
 # 25 Heaven over Thunder
@@ -536,9 +534,9 @@ if trigram_1 == "Heaven" and trigram_2 == "Thunder":
 	print("Attributes: Correctness, integrity, simplicity, absence of expectations")
 	print()
 	print("This hexagram comprises Heaven over Thunder. Thunder represents natural energy, so Wu Wang suggests the regenerative life force of a burgeoning springtime, which is blessed by the heavens above.")
-	print("The creators of the I Ching saw only virtue in the expression of such energy, believing such primal innocence to be perfectly attuned to the will of heaven. Summoning this primal purity from our hearts helps to cleanse our overly complicated minds and guide us safely through life.")
-	print("A major part of this innocence is the state of living in the present. When we spend too much time calculating the results of our labor or seeking approval from others, we can undermine our efforts. We work best when we are fully present in the moment, not when we are distracted by expectations. Forethought is a proper part of our labors, but we can never force every eventuality. Wu Wang advises us to adapt to unexpected difficulties should they arise rather than cluttering our minds with possibilities that may never happen.")
-	print("When our thoughts are free from uncertainty, we can more closely reflect the natural flow of life’s energy. Guided by a blend of adult wisdom and the unclouded awareness of a child, we can progress with peace of mind and playfulness.")
+	print(" The creators of the I Ching saw only virtue in the expression of such energy, believing such primal innocence to be perfectly attuned to the will of heaven. Summoning this primal purity from our hearts helps to cleanse our overly complicated minds and guide us safely through life.")
+	print(" A major part of this innocence is the state of living in the present. When we spend too much time calculating the results of our labor or seeking approval from others, we can undermine our efforts. We work best when we are fully present in the moment, not when we are distracted by expectations. Forethought is a proper part of our labors, but we can never force every eventuality. Wu Wang advises us to adapt to unexpected difficulties should they arise rather than cluttering our minds with possibilities that may never happen.")
+	print(" When our thoughts are free from uncertainty, we can more closely reflect the natural flow of life’s energy. Guided by a blend of adult wisdom and the unclouded awareness of a child, we can progress with peace of mind and playfulness.")
 	print()
 
 # 26 Mountain over Heaven
@@ -551,9 +549,9 @@ if trigram_1 == "Mountain" and trigram_2 == "Heaven":
 	print("Attributes: Accumulation, containment, holding firm, potential")
 	print()
 	print("This hexagram comprises Mountain over Heaven, which suggests the vast, creative power of heaven being stored within the stronghold of a mountain. This repository of power may be expressed through the creation of reserves in the bank, the amassing of personal virtue on a daily basis, and the accumulated knowledge, wisdom, and virtuous examples of great individuals in human history.")
-	print("All these various resources need to be gathered with restraint and firmness, resulting in the inner strength and other stillness of stored treasure within a mountain cavern. A resolute nature is needed to prevail against the obstacles that great endeavors necessarily encounter. A farmer will find his mettle tested in taming an unruly bull to plow his fields.")
-	print("Similarly, we need to focus our minds and wills vigorously and decisively in order to succeed in building up our reserves. Much work lies ahead, calling for self-discipline and strong leadership.")
-	print("Among the hindrances of which Da Xu warns is interference from troublesome people. In such cases, friendships should be cultivated if possible, since such alliances are also great resources. If, for example, the parents of the person one wishes to marry oppose the union, they should be won over by gentle persistence.")
+	print(" All these various resources need to be gathered with restraint and firmness, resulting in the inner strength and other stillness of stored treasure within a mountain cavern. A resolute nature is needed to prevail against the obstacles that great endeavors necessarily encounter. A farmer will find his mettle tested in taming an unruly bull to plow his fields.")
+	print(" Similarly, we need to focus our minds and wills vigorously and decisively in order to succeed in building up our reserves. Much work lies ahead, calling for self-discipline and strong leadership.")
+	print(" Among the hindrances of which Da Xu warns is interference from troublesome people. In such cases, friendships should be cultivated if possible, since such alliances are also great resources. If, for example, the parents of the person one wishes to marry oppose the union, they should be won over by gentle persistence.")
 	print()
 
 # 27 Mountain over Thunder
@@ -566,9 +564,9 @@ if trigram_1 == "Mountain" and trigram_2 == "Thunder":
 	print("Attributes: Nurturing, caring for oneself and others, temperance")
 	print()
 	print("This hexagram comprises Mountain over Thunder. The invigorating energy of nature symbolized by thunder is felt at the foot of the mountain, ready to rise up and encourage the renewed growth of the various plants that can sustain and heal us. This image of nourishment is also reflected by the hexagram’s shape, which resembles an open mouth, the yang lines at top and bottom being the lips.")
-	print("Happiness depends on being well nourished, both literally and metaphorically. Yi emphasizes that we must take responsibility for both types of self-nourishment. We must put the right food into our bodies and the right types of ideas into our minds and spirits. An emotional or intellectual diet of delusions, fantasies, self-pity, or greed is quite as damaging as unhealthy eating.")
-	print("Likewise, when we are called upon to nourish others—physically, mentally, and emotionally— we must be careful to discriminate between the Pure and the unworthy.")
-	print("The mouth not only takes in food and drink, but also gives forth speech. Yi stresses that moderation and tranquility are as important in our words as in our diet. Excess, carelessness, and poor ingredients should be avoided In both cases.")
+	print(" Happiness depends on being well nourished, both literally and metaphorically. Yi emphasizes that we must take responsibility for both types of self-nourishment. We must put the right food into our bodies and the right types of ideas into our minds and spirits. An emotional or intellectual diet of delusions, fantasies, self-pity, or greed is quite as damaging as unhealthy eating.")
+	print(" Likewise, when we are called upon to nourish others—physically, mentally, and emotionally— we must be careful to discriminate between the Pure and the unworthy.")
+	print(" The mouth not only takes in food and drink, but also gives forth speech. Yi stresses that moderation and tranquility are as important in our words as in our diet. Excess, carelessness, and poor ingredients should be avoided In both cases.")
 	print()
 
 # 28 Lake over Wind
@@ -581,10 +579,10 @@ if trigram_1 == "Lake" and trigram_2 == "Wind":
 	print("Attributes: Excessive pressure, great heaviness, the danger of collapse")
 	print()
 	print("This hexagram comprises Lake over Wind. The I Ching sees this as an image of the waters of a flooding lake rising into the upper branches of the trees that are usually the domain of the wind. Such a condition is unusual and may prove dangerous if we remain in the vicinity.")
-	print("This worrisome image is reinforced by the hexagram’s appearance, which suggests a wooden beam  that is thick in the middle (the four yang lines) but weak at both ends (the bottom and top yin lines). The entire roof is likely to collapse once the pressure of the beam’s weight causes the weakened ends to give way.")
-	print("Da Guo advises that the best course at this time is simply to move away as quickly as possible. The direction of the flight is of small importance as long as we clear out of the area of danger.")
-	print("The excessive pressure that threatens us may have been caused by our ambitions exceeding our abilities or our resources being spread too thinly. In business it may show overexpansion, which has created a shortage of funds and unrest in the workplace,")
-	print("Either way, success is still attainable if we rise to the occasion.  If we act decisively, with courage and self-discipline, all will be well. Our only truly dangerous error at this point would be inaction.")
+	print(" This worrisome image is reinforced by the hexagram’s appearance, which suggests a wooden beam  that is thick in the middle (the four yang lines) but weak at both ends (the bottom and top yin lines). The entire roof is likely to collapse once the pressure of the beam’s weight causes the weakened ends to give way.")
+	print(" Da Guo advises that the best course at this time is simply to move away as quickly as possible. The direction of the flight is of small importance as long as we clear out of the area of danger.")
+	print(" The excessive pressure that threatens us may have been caused by our ambitions exceeding our abilities or our resources being spread too thinly. In business it may show overexpansion, which has created a shortage of funds and unrest in the workplace,")
+	print(" Either way, success is still attainable if we rise to the occasion.  If we act decisively, with courage and self-discipline, all will be well. Our only truly dangerous error at this point would be inaction.")
 	print()
 
 # 29 Water over Water
@@ -597,9 +595,9 @@ if trigram_1 == "Water" and trigram_2 == "Water":
 	print("Attributes: Danger, descent, mastering pitfalls, darkness")
 	print()
 	print("This hexagram comprises Water over Water. An overabundance of water will push downward, its weight encouraging the natural tendency of the element to permeate structures. Thus these structures can be undermined and made hazardous. On the one hand, Kan relates to the depths of doubt and desperation, but on the other it suggests that our best strategy for survival at such times is to be like water ourselves:  consistent, dependable, and able to move with the currents.")
-	print("The types of dangers against which the hexagram warns seem extremely daunting: robbery, burglary, deceit, entrapment, abandonment, incapacitation, alcohol abuse, and hazards around  water itself.")
-	print("However, it is also stressed that danger, correctly approached, may indeed bring us benefits. Its proximity sharpens our minds and senses, and by learning to surmount it we can emerge much stronger.")
-	print("The key to prevailing over such trials is to remain calm and establish a positive attitude. External competence in the face of danger flows naturally from inner mastery, while faith in ourselves ties the heart to life and provides the strength to endure. This is the worst possible time to be overpowered by grief or to take refuge in escapism. Through decisive action we will emerge to safety.")
+	print(" The types of dangers against which the hexagram warns seem extremely daunting: robbery, burglary, deceit, entrapment, abandonment, incapacitation, alcohol abuse, and hazards around  water itself.")
+	print(" However, it is also stressed that danger, correctly approached, may indeed bring us benefits. Its proximity sharpens our minds and senses, and by learning to surmount it we can emerge much stronger.")
+	print(" The key to prevailing over such trials is to remain calm and establish a positive attitude. External competence in the face of danger flows naturally from inner mastery, while faith in ourselves ties the heart to life and provides the strength to endure. This is the worst possible time to be overpowered by grief or to take refuge in escapism. Through decisive action we will emerge to safety.")
 	print()
 
 # 30 Fire over Fire
@@ -612,9 +610,9 @@ if trigram_1 == "Fire" and trigram_2 == "Fire":
 	print("Attributes: Cohesion, illumination, brilliance")
 	print()
 	print("This hexagram comprises Fire over Fire, suggesting both the constant splendor of sunlight above the shorter-lived luminance of terrestrial blazes and the spirits of exemplary humans. As flames cling to their source of fuel and light embraces the surfaces it reveals, so human wisdom attaches to and brightens our lives.")
-	print("Fire depends on an enduring inner source of nourishment if it is to be sustained. Often, it is difficult to maintain the fires of our enthusiasms due to our failure to supply ourselves with the right amounts of the right sort of fuel, such as inspiration and support.  The flames either die away or blaze out of our control.")
-	print("Li reminds us that in nature each living substance has found a way to survive. With patience and docility we can relearn this instinctive knowledge and move toward a more enlightened state. In business, this hexagram can also indicate that things will get brighter.")
-	print("Everything we need to know is accessible through the subconscious mind. Once unveiled, this enlightenment can be put to the service of others, illuminating their paths and revealing hope. In this quest for enlightenment we must be wary of becoming fixated with illumination of the self. Nothing of value is produced by vanity and a lack of empathy and compassion for others.")
+	print(" Fire depends on an enduring inner source of nourishment if it is to be sustained. Often, it is difficult to maintain the fires of our enthusiasms due to our failure to supply ourselves with the right amounts of the right sort of fuel, such as inspiration and support.  The flames either die away or blaze out of our control.")
+	print(" Li reminds us that in nature each living substance has found a way to survive. With patience and docility we can relearn this instinctive knowledge and move toward a more enlightened state. In business, this hexagram can also indicate that things will get brighter.")
+	print(" Everything we need to know is accessible through the subconscious mind. Once unveiled, this enlightenment can be put to the service of others, illuminating their paths and revealing hope. In this quest for enlightenment we must be wary of becoming fixated with illumination of the self. Nothing of value is produced by vanity and a lack of empathy and compassion for others.")
 	print()
 
 # 31 Lake over Mountain
@@ -627,9 +625,9 @@ if trigram_1 == "Lake" and trigram_2 == "Mountain":
 	print("Attributes: Attraction, stimulation, sensitivty, support")
 	print()
 	print("This hexagram comprises Lake over Mountain. The lake atop the mountain symbolizes a yin influence that helps to keep a powerful yang force responsive and flexible. At the same time, the lake is supported and raised above what would otherwise have been its humbler station.")
-	print("In human terms, this beneficial interdependence is most clearly illustrated by well-matched couples who, free from selfishness and prejudice, balance each other’s extremes of yin and yang nature. ( It should be remembered in this context that yin qualities are not exclusive to women or yang to men.)")
-	print("Mutual attraction typically arises from two individuals recognizing in each other both similarities and complementary qualities. Tenderness and loyalty are required if the attraction is to transcend  seduction and become courtship and eventual bonding. Lasting beneficial associations are only possible when both parties are treated fairly and respectfully by each other.")
-	print("Xian evokes both the energy and stimulation of new romance and the commitment and joy of newlyweds. The path opens before us and great benefits are attracted into our lives. In our relationships, successful marriages may be indicated, with children soon to follow. Similarly, business dealings are highly favorable, with employers  and employees working harmoniously and expansion being imminent.")
+	print(" In human terms, this beneficial interdependence is most clearly illustrated by well-matched couples who, free from selfishness and prejudice, balance each other’s extremes of yin and yang nature. ( It should be remembered in this context that yin qualities are not exclusive to women or yang to men.)")
+	print(" Mutual attraction typically arises from two individuals recognizing in each other both similarities and complementary qualities. Tenderness and loyalty are required if the attraction is to transcend  seduction and become courtship and eventual bonding. Lasting beneficial associations are only possible when both parties are treated fairly and respectfully by each other.")
+	print(" Xian evokes both the energy and stimulation of new romance and the commitment and joy of newlyweds. The path opens before us and great benefits are attracted into our lives. In our relationships, successful marriages may be indicated, with children soon to follow. Similarly, business dealings are highly favorable, with employers  and employees working harmoniously and expansion being imminent.")
 	print()
 
 # 32 Thunder over Wind
