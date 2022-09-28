@@ -691,3 +691,18 @@ if trigram_1 == "Fire" and trigram_2 == "Earth":
 	print("	Therefore, the cultivation of self-awareness is strongly advised. Our light must not become clouded by insincerity or vanity. When we find success easily, it is not uncommon to slip into pride or self-indulgence. These must be avoided, as must the tendency to put on airs or facades, or to rest on our laurels.")
 	print("	Business prospects are very favorable at this time, with new careers or promotions easily attainable. Relationships are equally positive, and Jing also suggests that this is a fortunate time in which to move to a new house or even a new part of the country.")
 	print()
+
+# 36 Earth over Fire
+if trigram_1 == "Earth" and trigram_2 == "Fire":
+	print()
+	print("# 36 Ming Yi (Ming i)")
+	print()
+	print("The Darkening of the Light, The Wounding of Brightness")
+	print()
+	print("Attributes: Obscurity, adverse conditions, concealment of virtue")
+	print()
+	print("This hexagram comprises Earth over Fire, suggesting the gathering of night as the sun sinks below earths horizon. Just as hexagram 35 indicates that times of easy progress are part of life’s cycle, Ming Yi reminds us that darkness is as inevitable as the dawn.")
+	print("	During such periods, further advancement is exceedingly difficult (although the imagery of night and eventual daybreak indicates that success is achievable when the correct time comes). The wisest course is to hold back, restore energy, and patiently await sunrise and continued progress.")
+	print("	In dark times individuals of an equally dark nature are often found in positions of authority. Ming Yi advises that now is not the time to oppose such people directly or even to shine forth in defiance, since such action could lead to our being swallowed by the darkness. In some situations, we need to conceal our inner light in order to prevail.")
+	print("	This does not mean lending our power to the wrong person or scheme. Instead, we must cultivate outward detachment and inward perseverance. In this way we remain poised between dangerous outspokenness and harmful deceit and may continue to be a living light in the darkness.")
+	print()
