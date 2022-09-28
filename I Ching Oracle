@@ -661,3 +661,18 @@ if trigram_1 == "Heaven" and trigram_2 == "Mountain":
 	print("	At such times a constructive retreat is far wiser than allowing ourselves to be goaded into failure or to compromise with the encroaching darkness. Pride is the chief obstacle to such tactical withdrawal, so we must guard against it. Disengagement may seem distasteful at times, but is an entirely proper course if we disengage in order to prepare for a counteroffensive once situations are more favorable. We must keep our cool, allowing ourselves to be ruled not by hatred but by a sense of proportion, dignity, and prudence.")
 	print("	Unsurprisingly, Dun warns that this is an unpropitious time for launching new enterprises or embarking on new romances, relationships, or marriages.")
 	print()
+
+# 34 Thunder over Heaven
+if trigram_1 == "Thunder" and trigram_2 == "Heaven":
+	print()
+	print("# 34 Da Zhuang (Ta Chuang)")
+	print()
+	print("The Power of the Great, Increasing Strength")
+	print()
+	print("Attributes: Ascending energy, responsible use of force")
+	print()
+	print("This hexagram comprises Thunder over Heaven, suggestive of the rising movement of storm clouds and, more generally, increasing power ( da means “great” and Zhuang means “strength”). The combination of thunders motion and heavens strength is reflected in the hexagrams appearance. The four yang lines suggest ascending power, as if the wholly yang lower trigram is extending its influence into the upper.")
+	print("	Da Zhuang’s message is the opposite of the preceding hexagrams suggestion of withdrawal. It states that this is a suitable time for positive advancement when our energy is like that of an adventurous young man eager for action. The challenge is to develop the right type of strength and to know what to apply it to.")
+	print("	Excessive force and overconfidence are dangers in such periods. Flexibility, openness to advice, resilience, and perseverance are all requirements of effective power. Without sensitivity and moral integrity, the most powerful person is unlikely to create fruitful results. The truest power is seen in those who possess it but do not wield it carelessly or unnecessarily.")
+	print("	In business dealings, Da Zhuang emphasizes ethical strategies. In relationships, it warns against precipitant action ( such as an impulsive marriage proposal). More will be gained through patience and consistent kindness.")
+	print()
