@@ -676,3 +676,18 @@ if trigram_1 == "Thunder" and trigram_2 == "Heaven":
 	print("	Excessive force and overconfidence are dangers in such periods. Flexibility, openness to advice, resilience, and perseverance are all requirements of effective power. Without sensitivity and moral integrity, the most powerful person is unlikely to create fruitful results. The truest power is seen in those who possess it but do not wield it carelessly or unnecessarily.")
 	print("	In business dealings, Da Zhuang emphasizes ethical strategies. In relationships, it warns against precipitant action ( such as an impulsive marriage proposal). More will be gained through patience and consistent kindness.")
 	print()
+
+# 35 Fire over Earth
+if trigram_1 == "Fire" and trigram_2 == "Earth":
+	print()
+	print("# 35 Jing (Chin)")
+	print()
+	print("Progress, Advancement")
+	print()
+	print("Attributes: Recognition, promotion, reward, rapid and easy change")
+	print()
+	print("This hexagram comprises Fire over Earth. This evokes the image of the sun effortlessly rising above the horizon at dawn. The ascending sun suggests new beginnings and bright hope for the future, and so Jing announces a period of surprisingly easy progress and ever-widening expansion. Delays have been banished and we are finally presented with an opportunity to fulfill a goal.")
+	print("	Jing also stresses that it is proper for us to emulate the rising sun, allowing our work and talents to help illuminate each others paths. This is only possible when we keep our motives pure. Just as struggle often consolidates character, progress requiring little effort may undermine it.")
+	print("	Therefore, the cultivation of self-awareness is strongly advised. Our light must not become clouded by insincerity or vanity. When we find success easily, it is not uncommon to slip into pride or self-indulgence. These must be avoided, as must the tendency to put on airs or facades, or to rest on our laurels.")
+	print("	Business prospects are very favorable at this time, with new careers or promotions easily attainable. Relationships are equally positive, and Jing also suggests that this is a fortunate time in which to move to a new house or even a new part of the country.")
+	print()
