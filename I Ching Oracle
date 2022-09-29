@@ -705,3 +705,18 @@ if trigram_1 == "Earth" and trigram_2 == "Fire":
 	print("	In dark times individuals of an equally dark nature are often found in positions of authority. Ming Yi advises that now is not the time to oppose such people directly or even to shine forth in defiance, since such action could lead to our being swallowed by the darkness. In some situations, we need to conceal our inner light in order to prevail.")
 	print("	This does not mean lending our power to the wrong person or scheme. Instead, we must cultivate outward detachment and inward perseverance. In this way we remain poised between dangerous outspokenness and harmful deceit and may continue to be a living light in the darkness.")
 	print()
+
+#37 Wind over Fire
+if trigram_1 == "Wind" and trigram_2 == "Fire":
+	print()
+	print("# 37 Jia Ren (Chia Jen)")
+	print()
+	print("The Harmonious Family, The Well-Ordered Household")
+	print()
+	print("Attributes: Family relationships, teamwork, communication within a group, leading by example")
+	print()
+	print("This hexagram comprises Wind over Fire. Just as the warming of a house requires heated air that rises from a well-tended fire, the members of the household are comforted and strengthened by the words (wind) that arise from the inner spirit (fire) of each member.")
+	print("	These internal flames must be as carefully maintained and filed as those in the hearth. Inadequate firewood will produce little warmth and the family will not feel inclined to gather at the hearth. Likewise, words without substance will fail to unite individuals.")
+	print("	Jia Ran emphasizes that integrity and communication are vital to a well-ordered family and therefore to a harmonious society and peaceful world. Traditionally, an orderly family was founded on the formal, complementary roles and duties of the father, mother, and children. Despite social change, these hold true as metaphors. For example, the roles of men and women are less rigidly defined now, but each individual, family, and group needs a healthy balance of yin and yang qualities.")
+	print("	In the same way, each person involved in an enterprise needs to know how he or she can best contribute. Those who function as leaders must inspire others by cultivating within themselves love, faithfulness, and correctness.")
+	print()
