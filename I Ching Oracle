@@ -764,3 +764,18 @@ if trigram_1 == "Thunder" and trigram_2 == "Water":
 	print("	As we move forward toward safety, we must liberate our minds and emotions from the past difficulties. However, unresolved issues need to be addressed before we can let go of the past and allow our future to unfold. If recent difficulties were caused by the misdeeds of others, we should try to forgive them, rather that weighting ourselves down with grievances. Failure to do so will only impede our own progress.")
 	print("	In business, Jie heralds expansion after a difficult period. Those seeking new positions will do well if interviewed in the early morning.")
 	print()
+
+# 41 Mountain over Lake
+if trigram_1 == "Mountain" and trigram_2 == "Lake":
+	print()
+	print("# 41 Sun")
+	print()
+	print("Decrease, Restraint")
+	print()
+	print("Attributes: Cutting back, letting go of what is unnecessary, self-discipline")
+	print()
+	print("This hexagram comprises Mountain over Lake. As energy is constantly redistributed, resources decrease in one area to bring about increase elsewhere. The mountain slowly crumbles into the lake, increasing its size; the water in turn, held in place by the mountain, evaporates.")
+	print("	Sun suggests that when the lowly decreases to the benefit of the upper, stability is more easily undermined that when the flow is reversed. For instance, a building with upper walls that are stronger that the lower is precariously poised, as is a nation in which the ruler’s wealth consistently increases as the poor grow more destitute. One of our great challenges is to learn how to manipulate resources without causing instability.")
+	print("	Inevitably, however, all will now and then encounter circumstances that call for great frugality. At such times we must govern our emotions as well as our self-indulgences. Impatience and anger at such reversals of fortune will only impoverish our tranquility as well. Acceptance and a sense perspective will avoid the exhaustion caused by resentment. A spiritually harmonious quality of life should be developed to counterbalance material loss.")
+	print("	In both business and relationships, Sun warns against profligacy. Self-restraint is called for to avoid further depletion of both finances and emotional energy.")
+	print()
