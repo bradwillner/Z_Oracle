@@ -706,7 +706,7 @@ if trigram_1 == "Earth" and trigram_2 == "Fire":
 	print("	This does not mean lending our power to the wrong person or scheme. Instead, we must cultivate outward detachment and inward perseverance. In this way we remain poised between dangerous outspokenness and harmful deceit and may continue to be a living light in the darkness.")
 	print()
 
-#37 Wind over Fire
+# 37 Wind over Fire
 if trigram_1 == "Wind" and trigram_2 == "Fire":
 	print()
 	print("# 37 Jia Ren (Chia Jen)")
@@ -719,4 +719,19 @@ if trigram_1 == "Wind" and trigram_2 == "Fire":
 	print("	These internal flames must be as carefully maintained and filed as those in the hearth. Inadequate firewood will produce little warmth and the family will not feel inclined to gather at the hearth. Likewise, words without substance will fail to unite individuals.")
 	print("	Jia Ran emphasizes that integrity and communication are vital to a well-ordered family and therefore to a harmonious society and peaceful world. Traditionally, an orderly family was founded on the formal, complementary roles and duties of the father, mother, and children. Despite social change, these hold true as metaphors. For example, the roles of men and women are less rigidly defined now, but each individual, family, and group needs a healthy balance of yin and yang qualities.")
 	print("	In the same way, each person involved in an enterprise needs to know how he or she can best contribute. Those who function as leaders must inspire others by cultivating within themselves love, faithfulness, and correctness.")
+	print()
+
+# 38 Fire over Lake
+if trigram_1 == "Fire" and trigram_2 == "Lake":
+	print()
+	print("# 38 Kui (Ku)")
+	print()
+	print("Opposition, Disharmony")
+	print()
+	print("Attributes: Polarization, cross-purposes, incompatibility, estrangement, inner conflict")
+	print()
+	print("This hexagram comprises Fire over Lake. The nature of flames is to rise and the nature of the water is to descend, so the fire and the lake have no foundation for achieving the harmony described by hexagram 37. Even the nuclear hexagrams reflect the opposition of the two elements.")
+	print("	In human terms, this lack of communication may be expressed as mere indifference (the water cannot extinguish the flames, nor the flames heat the water) or a more destructive refusal to agree to disagree.")
+	print("	Alerting us to this tendency, Kui recommends trying to reconcile the opposing forces, regardless of whether they involve our own inner disunity, a disagreement with another person or group, or discord between two other parties. The key is to seek harmony through diversity, but we are warned that we will need an appropriate location and correct timing to enable this enterprise to flourish.")
+	print("	If we are a party to the conflict, reflection on our attitudes Is necessary, Could our failure to get along with friends and family be due to a misunderstanding or our resistance to change? In contrast, when our motives and information are correct, we must not let ourselves be influenced detrimentally by contrary energies such as fear.")
 	print()
