@@ -735,3 +735,17 @@ if trigram_1 == "Fire" and trigram_2 == "Lake":
 	print("	Alerting us to this tendency, Kui recommends trying to reconcile the opposing forces, regardless of whether they involve our own inner disunity, a disagreement with another person or group, or discord between two other parties. The key is to seek harmony through diversity, but we are warned that we will need an appropriate location and correct timing to enable this enterprise to flourish.")
 	print("	If we are a party to the conflict, reflection on our attitudes Is necessary, Could our failure to get along with friends and family be due to a misunderstanding or our resistance to change? In contrast, when our motives and information are correct, we must not let ourselves be influenced detrimentally by contrary energies such as fear.")
 	print()
+
+#39 Water over Mountain
+if trigram_1 == "Water" and trigram_2 == "Mountain":
+	print()
+	print("# 39 Jian (Chen)")
+	print()
+	print("Obstruction, Interruption of Flow")
+	print()
+	print("Attributes: Obstacles, troubles, hardship, impasse")
+	print()
+	print("This hexagram comprises Water over Mountain, suggesting a body of water being held atop a peak. Its natural inclination to flow downhill is impeded. Only when water has accumulated enough volume will it burst free. As it does so it may present new dangers, descending as a powerful, potentially destructive waterfall or as impassable rapids.")
+	print("	Jian warns that our situation has become so fraught with obstacles that it has become extremely dangerous. These external perils—dangers that exist outside you, rather than dangers caused by your attitudes or ideas— should not be confronted directly. If there is any possibility of safely skirting the hazards, it should be taken, but it is more probable that we will need to stay where we are until we have built up our strength and consolidated support. The situation is not one from which we can extricate ourselves. We will need instead to join forces with like-minded companions.")
+	print("	While waiting for the proper time, opportunity, and support, it is important not to fall into self-pity or to cast about for someone or something to blame. It is far better to reflect on whether the difficulty we face is in some measure of our own making. Possibly, the outward danger has been awoken by obstructions within our own thoughts.")
+	print()
