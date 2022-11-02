@@ -779,3 +779,18 @@ if trigram_1 == "Mountain" and trigram_2 == "Lake":
 	print("	Inevitably, however, all will now and then encounter circumstances that call for great frugality. At such times we must govern our emotions as well as our self-indulgences. Impatience and anger at such reversals of fortune will only impoverish our tranquility as well. Acceptance and a sense perspective will avoid the exhaustion caused by resentment. A spiritually harmonious quality of life should be developed to counterbalance material loss.")
 	print("	In both business and relationships, Sun warns against profligacy. Self-restraint is called for to avoid further depletion of both finances and emotional energy.")
 	print()
+
+# 42 Wind over Thunder
+if trigram_1 == "Wind" and trigram_2 == "Thunder":
+	print()
+	print("# 42 Yi")
+	print()
+	print("Increase, Accumulation")
+	print()
+	print("Attributes: Material gain, blessings, windfalls")
+	print()
+	print("This hexagram comprises Wind over Thunder, a symbol of increase from above as the wind carries the invigorating sound of the thunder further than it would otherwise go. Yi has the opposite connotations to hexagram 41. Here, generosity is expressed from above, as in a nation where the wealthy work toward decreasing inequality, and all benefit.")
+	print("	Just as the negativity of the previous hexagram is of finite duration, so is the bounty of Yi. Consequently, this is not a time in which to sit idly. Great undertakings are currently well within our potential to bring to fruition. Gain will be increased further through strong, confident action.")
+	print("	While capitalizing on our material good fortune, we must also remember to work on self-improvement, learning from the good examples of others and eradicating the less honorable aspects of our personalities. In our quest to make the most of such beneficial times, we must always act with generosity. Exploiting others for personal gain diminishes the spirit in ways that cannot be offset by external wealth.")
+	print("	In both business and emotional issues, Yi presses us to face challenges, even in the face of friends’ apprehension. In this climate of good fortune, we must seize the moment.")
+	print()
