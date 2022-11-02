@@ -794,3 +794,18 @@ if trigram_1 == "Wind" and trigram_2 == "Thunder":
 	print("	While capitalizing on our material good fortune, we must also remember to work on self-improvement, learning from the good examples of others and eradicating the less honorable aspects of our personalities. In our quest to make the most of such beneficial times, we must always act with generosity. Exploiting others for personal gain diminishes the spirit in ways that cannot be offset by external wealth.")
 	print("	In both business and emotional issues, Yi presses us to face challenges, even in the face of friends’ apprehension. In this climate of good fortune, we must seize the moment.")
 	print()
+
+# 43 Lake over Heaven
+if trigram_1 == "Lake" and trigram_2 == "Heaven":
+	print()
+	print("# 43 Guai (Kuai)")
+	print()
+	print("Breakthrough, Resolve")
+	print()
+	print("Attributes: Confrontation, determination, speaking out, elimination of unworthiness")
+	print()
+	print("This hexagram comprises Lake over Heaven. Once the waters of the lake have risen to heaven as vapor, looming clouds begin to fill the sky, creating tension that will only be released through heavy rain. Likewise, accumulated water on high ground needs little encouragement to burst through the barriers holding it.")
+	print("	In human affairs this violent discharge of energy is seen when, having been surrounded by dangerous presences, we are forced to resolve them by confronting and eliminating them. Guai advises that the time for hesitation has passed and that the current climate is favorable for tackling these negative forces and influences. Since confrontation is unavoidable, we are counseled to decide how to deal with the situation before it reaches its danger point.")
+	print("	When we are required to deal with such matters, it is important not to fight fire with fire, using our opponents’ dishonorable methods against them. Compromising our virtue by using unethical behavior or excessive force or allowing our anger or egos to take the upper hand must be scrupulously  avoided.")
+	print("	Guai emphasizes that the wisest tactic in overcoming negativity in others or ourselves is to channel our energies into the furtherance of virtue rather than overpowering of vice.")
+	print()
