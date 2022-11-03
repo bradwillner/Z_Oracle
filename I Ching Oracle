@@ -854,3 +854,18 @@ if trigram_1 == "Earth" and trigram_2 == "Wind":
 	print("	In order to continue this harmonious progression, we are counseled to cultivate our willpower and self-control, since the only possible obstructions currently are those that arise internally, such as pride and idleness.")
 	print("	All new undertakings are very favorable at this point, from new business ventures to marriages or conceiving a child.")
 	print()
+
+# 47 Lake over Water
+if trigram_1 == "Lake" and trigram_2 == "Water":
+	print()
+	print("# 47 Kun")
+	print()
+	print("Exhaustion, Oppression")
+	print()
+	print("Attributes: Collapse of effort, depression, despair, resignation, restriction")
+	print()
+	print("This hexagram comprises Lake over Water. This suggests a lake from which the water has entirely drained away, sinking beneath the earth or coursing away downhill. This in turn evokes the way we feel when prolonged adversity depletes our energy and confidence.")
+	print("	A sense of purpose is one of our most valuable assets. When it is depleted, progress is not only impossible but also ceases even to seem desirable. Kun reminds us that  we all encounter such periods of life from time to time. Our worth is not measured by our success or failure but by our ability to respond to both with grace.")
+	print("	Self-pity and pessimism, even when events appear to warrant them, are invariably dangerous, miring us more deeply in despair when we ought to be concentrating on regaining control. Remaining cheerful in the face of reversals, poverty, and oppression is essential if solutions are to be found. It also encourages others to feel optimistic.")
+	print("	As with an exhausted body, rest and nourishment  replenishes a depleted spirit. Kun suggests we use these adverse times to study and engage in research to revitalize our interest in life and prepare the way for future progress. Changes in our work or lifestyles may also be indicated.")
+	print()
