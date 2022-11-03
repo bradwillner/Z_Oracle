@@ -824,3 +824,18 @@ if trigram_1 == "Heaven" and trigram_2 == "Wind":
 	print("	The heavenly advice that we need to heed is that we must be on guard against unworthy people, influences, and habits. At this point these appear to be harmless, but if their influence is left unchecked the negativity may swiftly and unexpectedly consume us and adversely affect those around us. The kinds of pernicious forces against which Gou warns may easily lead to an addiction to drugs, alcohol, unhealthy food, damaging sexual behavior, gambling, and countless other self-indulgences.")
 	print("	Just as the night’s lengthening after the summer solstice is initially almost imperceptible, so can the quietly gathering strength of these seductive inclinations take us by surprise, leaving us in a weakened state and vulnerable to exploitation. This hexagram alerts us to such dangers.")
 	print()
+
+# 45 Lake over Wind
+if trigram_1 == "Lake" and trigram_2 == "Earth":
+	print()
+	print("# 45 Cui (Tsui)")
+	print()
+	print("Gathering Together, Community")
+	print()
+	print("Attributes: Congregating, shared intention, group cohesion, accord, organization")
+	print()
+	print("This hexagram comprises Lake over Earth, which suggests gathering in two ways. First, the lake forms by the accumulation of water from rain and streams. Second, when the waters threaten to rise too high, the community gathers to prevent flooding by reinforcing or raising the enclosing banks. Cui therefore represents the coming together of a large group of people for a shared purpose.")
+	print("	While the collective strength of united communities is capable of effecting great positive changes in the world, there is always the danger of conflict, theft, and exploitation in any crowded situation. Cui reminds us to be prepared for unexpected situations and to work toward keeping order. Like the waters of the lake, the exuberance of the gathering must be safely contained.")
+	print("	Consequently, when a crowd gathers, the stabilizing influence of sound leadership is necessary. To be effective in this role we must develop a firmness of character needed to cope with unforeseen events, remind the assemblage of their mutual intention, and coordinate activity.")
+	print("	Winning the support and trust of our community tests our mental and emotional strength and physical endurance, but when great things are achieved through the goodwill and mutual support of a community, such efforts are richly rewarded.")
+	print()
