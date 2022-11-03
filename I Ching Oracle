@@ -869,3 +869,18 @@ if trigram_1 == "Lake" and trigram_2 == "Water":
 	print("	Self-pity and pessimism, even when events appear to warrant them, are invariably dangerous, miring us more deeply in despair when we ought to be concentrating on regaining control. Remaining cheerful in the face of reversals, poverty, and oppression is essential if solutions are to be found. It also encourages others to feel optimistic.")
 	print("	As with an exhausted body, rest and nourishment  replenishes a depleted spirit. Kun suggests we use these adverse times to study and engage in research to revitalize our interest in life and prepare the way for future progress. Changes in our work or lifestyles may also be indicated.")
 	print()
+
+# 48 Water over Wind
+if trigram_1 == "Water" and trigram_2 == "Wind":
+	print()
+	print("# 48 Jing (Ching)")
+	print()
+	print("The Well, The Source")
+	print()
+	print("Attributes: Replenishment, slaking spiritual thirst, communion, connection")
+	print()
+	print("This hexagram comprises Water over Wind, although the I Ching again uses Wind’s association with the element Wood in its imagery. Wood descending into Water suggests the symbol of a well into which poles bearing ceramic bowls (in the traditional Chinese style of well) or wooden buckets (in Western wells) were lowered in order to access the drinking water necessary to a community’s existence.")
+	print("	The well in turn suggests the source of that which sustains our spirits. As surely as our bodies need clean water, our spiritual thirsts must also be satisfied. The metaphorical water to nourish the spirit, like the actual water of a well, is located beneath the surface of our lives. Jing reminds us that when we live purely in the superficial order of the world, our deepest needs remain unfulfilled.")
+	print("	If a well is poorly maintained or allowed to become tainted, no one will drink from it. We are therefore reminded by this hexagram to see that our means of attaining spiritual nourishment is kept in good condition.")
+	print("	Jing also relates the well to education, another inexhaustible source of replenishment for all. We should no more neglect our thirst for uncontaminated wisdom and knowledge that our need for water.")
+	print()
