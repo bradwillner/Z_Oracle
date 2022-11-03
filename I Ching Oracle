@@ -884,3 +884,18 @@ if trigram_1 == "Water" and trigram_2 == "Wind":
 	print("	If a well is poorly maintained or allowed to become tainted, no one will drink from it. We are therefore reminded by this hexagram to see that our means of attaining spiritual nourishment is kept in good condition.")
 	print("	Jing also relates the well to education, another inexhaustible source of replenishment for all. We should no more neglect our thirst for uncontaminated wisdom and knowledge that our need for water.")
 	print()
+
+# 49 Lake over Fire
+if trigram_1 == "Lake" an trigram_2 == "Fire":
+	print()
+	print("# 49 Ge (Ko)")
+	print()
+	print("Revolution, Molting")
+	print()
+	print("Attributes: Radical change, innovation, reformation, renewal, upheaval")
+	print()
+	print("This hexagram comprises Lake over Fire. The idea of a fire beneath the surface of a lake immediately suggests opposing tendencies. The lake will attempt to extinguish the fire and the fire will try to dry up the lake. This mirrors life’s constant rebalancing of opposites such as yin and yang, summer and winter, and light and darkness.")
+	print("	When imbalances occur, radical changes are sometimes necessary. Like the molting of an animal’s fur at the change of seasons, an old order must be abolished to make way for the new. In the political world, this may be expressed through revolutions, as it was many times throughout the history of the Chinese dynasties.")
+	print("	Just as a political revolution manifests itself in the mind before manifesting in the outer world, so all radical changes in our lives must arise after carful consideration. All alternatives must be weighed up, as if we were farmers formulating strategies to cope with both rain and drought.")
+	print("	Even after such deliberation, we must still wait for the most auspicious time at which to act. Ge reminds us that to garner full support the virtues of changes  must bot be implemented hastily. Effective change requires astute timing.")
+	print()
