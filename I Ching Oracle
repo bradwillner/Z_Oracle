@@ -839,3 +839,18 @@ if trigram_1 == "Lake" and trigram_2 == "Earth":
 	print("	Consequently, when a crowd gathers, the stabilizing influence of sound leadership is necessary. To be effective in this role we must develop a firmness of character needed to cope with unforeseen events, remind the assemblage of their mutual intention, and coordinate activity.")
 	print("	Winning the support and trust of our community tests our mental and emotional strength and physical endurance, but when great things are achieved through the goodwill and mutual support of a community, such efforts are richly rewarded.")
 	print()
+
+# 46 Earth over Wind
+if trigram_1 == "Earth" and trigram_2 == "Wind":
+	print()
+	print("# 46 Sheng")
+	print()
+	print("Pushing Upward, Ascendance")
+	print()
+	print("Attributes: Steady growth, increase, arising, spring")
+	print()
+	print("This hexagram comprises Earth over Wind. As Wind is also associated with the element Wood, Sheng is suggestive of the gentle, steady, and unceasing growth of a young tree flourishing in early spring. Just as well-nourished saplings reach upward untiringly and with no apparent effort, so will we find movement from a lower level to a higher level easily achievable at this time. Obstacles will be few, minor, and far between.")
+	print("	We are advised to make the most of these favorable conditions, but also to allow our progress to be gradual and unhurried. Like the tree, our growth is assured, although it is not instantaneous. Impatience and haste are usually symptoms of our anxiety about our advancement,  but Zheng reassures us that this is a period during which such doubts are baseless. However, also like a burgeoning plant, we should not pause in our activity. Success will be achieved if we continue to move forward with faith and confidence. ")
+	print("	In order to continue this harmonious progression, we are counseled to cultivate our willpower and self-control, since the only possible obstructions currently are those that arise internally, such as pride and idleness.")
+	print("	All new undertakings are very favorable at this point, from new business ventures to marriages or conceiving a child.")
+	print()
