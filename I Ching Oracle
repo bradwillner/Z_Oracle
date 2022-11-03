@@ -809,3 +809,18 @@ if trigram_1 == "Lake" and trigram_2 == "Heaven":
 	print("	When we are required to deal with such matters, it is important not to fight fire with fire, using our opponents’ dishonorable methods against them. Compromising our virtue by using unethical behavior or excessive force or allowing our anger or egos to take the upper hand must be scrupulously  avoided.")
 	print("	Guai emphasizes that the wisest tactic in overcoming negativity in others or ourselves is to channel our energies into the furtherance of virtue rather than overpowering of vice.")
 	print()
+
+# 44 Heaven over Wind
+if trigram_1 == "Heaven" and trigram_2 == "Wind":
+	print()
+	print("# 44 Gou (Kou)")
+	print()
+	print("Coming To Meet, Temptaition")
+	print()
+	print("Attributes: Encountering bad influences, deception, seduction, addiction, dissipation")
+	print()
+	print("This hexagram comprises Heaven over Wind, an image suggestive of heavenly wisdom being disseminated by the freely ranging breeze. Whether this advice is heeded is up to us.")
+	print("	The form of the hexagram suggests the nature of the message. The single yin line can be thought of as infiltrating the otherwise solidly yang hexagram, like darkness gradually taking hold after the apparent victory of light. For this reason, Gou is associated with the summer solstice— the turning point of the year after which daylight lessens and night lengthens.")
+	print("	The heavenly advice that we need to heed is that we must be on guard against unworthy people, influences, and habits. At this point these appear to be harmless, but if their influence is left unchecked the negativity may swiftly and unexpectedly consume us and adversely affect those around us. The kinds of pernicious forces against which Gou warns may easily lead to an addiction to drugs, alcohol, unhealthy food, damaging sexual behavior, gambling, and countless other self-indulgences.")
+	print("	Just as the night’s lengthening after the summer solstice is initially almost imperceptible, so can the quietly gathering strength of these seductive inclinations take us by surprise, leaving us in a weakened state and vulnerable to exploitation. This hexagram alerts us to such dangers.")
+	print()
