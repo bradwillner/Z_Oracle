@@ -886,7 +886,7 @@ if trigram_1 == "Water" and trigram_2 == "Wind":
 	print()
 
 # 49 Lake over Fire
-if trigram_1 == "Lake" an trigram_2 == "Fire":
+if trigram_1 == "Lake" and trigram_2 == "Fire":
 	print()
 	print("# 49 Ge (Ko)")
 	print()
@@ -898,4 +898,19 @@ if trigram_1 == "Lake" an trigram_2 == "Fire":
 	print("	When imbalances occur, radical changes are sometimes necessary. Like the molting of an animal’s fur at the change of seasons, an old order must be abolished to make way for the new. In the political world, this may be expressed through revolutions, as it was many times throughout the history of the Chinese dynasties.")
 	print("	Just as a political revolution manifests itself in the mind before manifesting in the outer world, so all radical changes in our lives must arise after carful consideration. All alternatives must be weighed up, as if we were farmers formulating strategies to cope with both rain and drought.")
 	print("	Even after such deliberation, we must still wait for the most auspicious time at which to act. Ge reminds us that to garner full support the virtues of changes  must bot be implemented hastily. Effective change requires astute timing.")
+	print()
+
+# 50 Fire over Wind
+if trigram_1 == "Fire" and trigram_2 == "Wind":
+	print()
+	print("# 50 Ding (Ting)")
+	print()
+	print("The Cauldron, The Sacred Vessel")
+	print()
+	print("Attributes: Transformation, nourishment, sacrifice, consecration")
+	print()
+	print("This hexagram comprises Fire over Wind. Wind is connected to the element Wood, so the combination suggests flames blazing over a well-ventilated pile of firewood. This is connected to cooking, since the shape of the hexagram resembles that of a traditional Chinese ding, a bronze cauldron decorated with sacred inscriptions. The yang lines correspond to the body of the vessel and its lid, and the yin lines represent its two handles and two legs.")
+	print("	While the image of a cheerfully steaming cauldron of food has the obvious symbol of nourishment and plenty, it also exemplifies the notion of transformation. Cooking may be considered a branch of alchemy, raw ingredients being transformed into a more complex and attractive combination.")
+	print("	As well as containing human nourishment, the ding was also used to contain offerings of food for honoring departed ancestors and higher spiritual powers. In this context, the humble cooking pot is itself transformed into a ceremonial vessel, containing offered food just as the cauldrons of our minds offer gratitude to the higher realm.")
+	print("	Ding therefore represents the meeting of the physical and metaphysical dimensions, reminding us that both aspects must be attended to and respected if our lives are to be lived well.")
 	print()
