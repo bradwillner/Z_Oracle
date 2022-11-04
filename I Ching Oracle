@@ -914,3 +914,18 @@ if trigram_1 == "Fire" and trigram_2 == "Wind":
 	print("	As well as containing human nourishment, the ding was also used to contain offerings of food for honoring departed ancestors and higher spiritual powers. In this context, the humble cooking pot is itself transformed into a ceremonial vessel, containing offered food just as the cauldrons of our minds offer gratitude to the higher realm.")
 	print("	Ding therefore represents the meeting of the physical and metaphysical dimensions, reminding us that both aspects must be attended to and respected if our lives are to be lived well.")
 	print()
+
+# 51 Thunder over Thunder
+if trigram_1 == "Thunder" and trigram_2 == "Thunder":
+	print()
+	print("# Zhen (Chen)")
+	print()
+	print("The Arousing, Test To Equanimity")
+	print()
+	print("Attributes: Shock, surprise, response to provocation, taking action, challenges to structure")
+	print()
+	print("This hexagram comprises Thunder over Thunder, the doubling of an explosive sound provoking feelings of fear and alarm. Zhen suggests a range of events all as startling as a sudden deafening clap of thunder. These range from natural disasters to loss of wealth, humiliation, gossip, arguments, and even violence.")
+	print("	Such disturbing events can, however, turn out to be constructive if we are able to rise to the challenges imposed. Often, it takes a fright or catastrophe to jolt us into questioning the bases of our lives. This is reinforced by the I Ching’s association of thunder with the energy of springtime.")
+	print("	Accordingly, by causing us to pause and consider the dangers we have inadvertently invited into our lives, the shock of Zhen often heralds a new beginning and deepening self-awareness. Much can be achieved if we take responsibility for our troubles and look for new perspectives.")
+	print("	Once this period of adversity and alarm has passed, there is every chance that we will find our lives to be in a healthier state. At such times we must be on guard against falling back into old patterns of thinking. Like Zhen’s thunder, our power can be doubled if we seize this opportunity to learn.")
+	print()
