@@ -929,3 +929,18 @@ if trigram_1 == "Thunder" and trigram_2 == "Thunder":
 	print("	Accordingly, by causing us to pause and consider the dangers we have inadvertently invited into our lives, the shock of Zhen often heralds a new beginning and deepening self-awareness. Much can be achieved if we take responsibility for our troubles and look for new perspectives.")
 	print("	Once this period of adversity and alarm has passed, there is every chance that we will find our lives to be in a healthier state. At such times we must be on guard against falling back into old patterns of thinking. Like Zhen’s thunder, our power can be doubled if we seize this opportunity to learn.")
 	print()
+
+# 52 Mountain over Mountain
+if trigram_1 == "Mountain" and trigram_2 == "Mountain":
+	print()
+	print("# Gen (Ken)")
+	print()
+	print("Keeping Still, Resting")
+	print()
+	print("Attributes: Quietude, inner peace, restraint, meditation")
+	print()
+	print("This hexagram comprises Mountain over Mountain. This doubling off the stillness related to the Mountain trigram makes Gen the I Ching’s primary image of calmness. As mountains are traditionally seen as places of retreat and meditation, the hexagram counsels us to withdraw from the marketplace and cultivate the inner peace necessary for further development.")
+	print("	While Gen advises rest from worldly activities, the meditative state it calls for is not necessarily easy for us. Achieving a tranquil heart is extremely difficult and calls for great persistence and self-discipline. True meditation requires inner as well as outer stillness, which can only be achieved through the patient, persistent quieting of our anxieties and internal chatter.")
+	print("	As serenity increases, we are able to perceive the world more clearly and objectively, our eyes unclouded by self-delusion and overly judgmental attitudes.")
+	print("	The philosophy of the I Ching does not see such stillness as our ultimate goal. Like all of the conditions of life described by the hexagrams, Gen’s stillness that we may acquire the wisdom and nourishment of the spirit that we require in order to pass safely and calmly through all circumstances.")
+	print()
