@@ -944,3 +944,18 @@ if trigram_1 == "Mountain" and trigram_2 == "Mountain":
 	print("	As serenity increases, we are able to perceive the world more clearly and objectively, our eyes unclouded by self-delusion and overly judgmental attitudes.")
 	print("	The philosophy of the I Ching does not see such stillness as our ultimate goal. Like all of the conditions of life described by the hexagrams, Gen’s stillness that we may acquire the wisdom and nourishment of the spirit that we require in order to pass safely and calmly through all circumstances.")
 	print()
+
+# 53 Wind over Mountain
+if trigram_1 == "Wind" and trigram_2 == "Mountain":
+	print()
+	print("# 53 Jian (Chien)")
+	print()
+	print("Gradual Progress, Development")
+	print()
+	print("Attributes: Steady growth, maturation, patience, lasting results, lifelong growth")
+	print()
+	print("This hexagram comprises Wind over Mountain. As the Wind trigram also relates to the element Wood, Jian suggests an image of trees growing on the top of a windswept peak. In order to withstand their exposure to the elements, the trees must remain strong, well proportioned, and firmly rooted. This type of stability can only be achieved through slow and steady progress, which is also how lasting changes are achieved in human affairs.")
+	print("	The I Ching uses the preparation of a young couple for marriage as an example of this type of measured progress. The attendant formalities may advance slowly, but if they encourage the development of the cooperation necessary for all complex relationships, the time may be considered well spent.")
+	print("	The same principles apply whenever we wish to influence others. If time is not spent on nurturing new relationships and attitudes, the winds of change will uproot them just as a sapling grown too high for its girth will be brought down by the high winds of the mountaintop.")
+	print("	Jian warns that rapid progress and forceful behavior  will complicate your present difficulties, whereas steady, considered persistence will achieve great things. If this advice is heeded, both business and relationships are well favored at this time.")
+	print()
