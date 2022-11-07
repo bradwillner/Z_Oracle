@@ -974,3 +974,18 @@ if trigram_1 == "Thunder" and trigram_2 == "Lake":
 	print("	In these situations, such mistakes must be acknowledged and tactful steps taken to remedy matters. Rushing to escape invites a painful failure. We must not compound one impetus error with another.")
 	print("	Gui Mei reminds us that misunderstandings and errors in judgment may occur in all sorts of relationships, particularly where we allow ourselves to float through life ruled by whims rather than purpose. The sense of flow advocated by the I Ching is to move in accordance with the inner current of life, not to drift haphazardly under the influence of others.")
 	print()
+
+# 55 Thunder over Fire
+if trigram_1 == "Thunder" and trigram_2 == "Fire":
+	print()
+	print("# 55 Feng")
+	print()
+	print("Abundnace, Opportunity")
+	print()
+	print("Attributes: Major Achievements, effectiveness, peaking energy, bounty")
+	print()
+	print("This hexagram comprises Thunder over Fire, which suggests the flashing lightning reaching earthward during a thunderstorm, a symbol of tremendous power in action. As such, Feng represents a time of supreme achievement, abundance, and success.")
+	print("	Since this a peaking of our energy, it will not be long lasting, and a decrease of power must inevitably follow. We are currently like the sun at midday, but the sun will eventually set once more. There is no cause for regret in this, but we must take the fullest possible advantage of this prevailing climate of triumph to set in place the schemes and structures that will further our aims once the situation alters.")
+	print("	Feng counsels against excess and complacency in the face of our triumph. Like a wise leader who, having risen to power, establishes justice and order, we should not waste opportunities by indulging in self-congratulation. Careful management is called for in all matters despite the jubilant distractions around us.")
+	print("	At the same time, we must not let our sense of responsibility rob us of our pleasure in this particularly favorable period of our lives. We owe it to our supporters and loved ones to participate in the celebrations.")
+	print()
