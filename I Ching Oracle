@@ -1004,3 +1004,18 @@ if trigram_1 == "Fire" and trigram_2 == "Mountain":
 	print("	Restlessness often results from our need to find a new form of fuel in our lives, but to travel well we must be aware of its hazards. Separated from familiar securities, we must adapt to unfamiliar places and customs with caution and respect, and to strangers with courtesy, discretion, and deference. By avoiding airs and pretension, we protect ourselves against humiliation.")
 	print("	While traveling prevents stagnation, we must be mindful of the fact that when constantly moving we may decrease our ability to have a permanent influence on the world. Such achievements often require risks that are better made from place of strength and stability. We must also recognize when we are traveling to escape something, rather than to seek something.")
 	print()
+
+# 57 Wind over Wind
+if trigram_1 == "Wind" and trigram_2 == "Wind":
+	print()
+	print("# 57 (Sun)")
+	print()
+	print("The Penetraiting, The Gentle")
+	print()
+	print("Attributes: Persistence, patience, repetition, pervasivness, proceeding with humility")
+	print()
+	print("This hexagram comprises Wind over Wind. Unobtrusive and gentle, the breeze may gradually achieve great things through persistence. If the wind continually changes, it may have little effect, but when it applies its influence consistently from a single direction it will in time be proven as a force to reckon with.")
+	print("	In human affairs, aggressive and violent ambition often make dramatic changes, but also strengthen opposition. If we wish to effect abiding change, we are well advised to emulate the wind’s gentle but unceasing labor. Intimidation is a far less effective method of persuasion than engendering trust through integrity, constancy, and humility.")
+	print("	The wind adapts itself to the shapes and natures of the obstacles it encounters without interrupting its subtle insistence. Similarly, a flexible nature will win us friends in our endeavors. Balance is needed, however. Excessive compliance will undermine our self-confidence and respect from others. Advancement is not possible from a crouching position.")
+	print("	Xun advises us that the way to lasting support for our ideas lies in patient repetition and explanation. We cannot expect endorsement of our goals unless they have permeated the hearts and minds of others, nor instructions to be carried out if they are not clearly understood.")
+	print()
