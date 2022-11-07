@@ -1023,7 +1023,7 @@ if trigram_1 == "Wind" and trigram_2 == "Wind":
 # 58 Lake over Lake
 if trigram_1 == "Lake" and trigram_2 == "Lake":
 	print()
-	print("# Dui")
+	print("# 58 Dui")
 	print()
 	print("Joy, Pleasure")
 	print()
@@ -1033,4 +1033,19 @@ if trigram_1 == "Lake" and trigram_2 == "Lake":
 	print("	The Lake trigram symbolizes the joy that arises from a sense of stability (the two lower yang lines depict this internal strength and the upper yin line the external mildness). This trigram’s influence, doubled in Dui, embodies a mood of infectious elation where beauty and celebration reign as nature offers up her harvest.")
 	print("	With its usual sense of the importance of balance, the I Ching reminds us not to allow this exuberance to slip into uncontrolled revelry, nor to allow the trigram’s association with speech to become, through its doubling, excessive, gossipy, or quarrelsome as conversations at gatherings often do. The emphasis on speech should instead be an indication of shared goodwill, good humor, and wisdom. It may also suggest a career involving public speaking.")
 	print("	Dui reminds us that all we undertake in life provides and opportunity to learn and thereafter the chance to share the fruits of our endeavors. As such, each task we undertake should be embraced with pleasure.")
+	print()
+
+# 59 Wind over Water
+if trigram_1 == "Wind" and trigram_2 == "Water":
+	print()
+	print("# 59 Huan")
+	print()
+	print("Dispersion, Dissolution")
+	print()
+	print("Attributes: Dissolving blockages, resolving conflicts, restoring unity")
+	print()
+	print("This hexagram comprises Wind over Water. The two forces are not integrated, which suggests an element of disunity, but although the wind cannot penetrate the water, its effects can be seen in the ripples and waves on the water’s surface.")
+	print("	In this way, it assits in the removal or surmounting of blockages caused by fallen branches or leaves. Likewise, a strong breeze can give water greater mobility by carrying it as spray or mist, and a warm wind in early spring will help to dissolve and disperse the ice that robs water of motion.")
+	print("	Communities and individuals also experience stagnation, stalemates, and rigidity of thoughts. Huan represents the need for the dispersal of such obstacles to progress, acknowledging that this sometimes entails a period of chaos. In order to break through major obstructions, the wind must often whip up powerful waves. Once unleashed, they may become a fearsome force of destruction, and Huan warns us against becoming lost in the confusion. ")
+	print("	Wind and the element Wood are related in the I Ching. Though the image of Wood on Water, Huan also suggests the boats, which allow separated individuals to reunite. In divination it may suggest a new venture, travel, or a change of home or career.")
 	print()
