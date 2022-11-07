@@ -959,3 +959,18 @@ if trigram_1 == "Wind" and trigram_2 == "Mountain":
 	print("	The same principles apply whenever we wish to influence others. If time is not spent on nurturing new relationships and attitudes, the winds of change will uproot them just as a sapling grown too high for its girth will be brought down by the high winds of the mountaintop.")
 	print("	Jian warns that rapid progress and forceful behavior  will complicate your present difficulties, whereas steady, considered persistence will achieve great things. If this advice is heeded, both business and relationships are well favored at this time.")
 	print()
+
+# 54 Thunder over Lake
+if trigram_1 == "Thunder" and trigram_2 == "Lake":
+	print()
+	print("# 54 Gui Mei (Kuei Mei)")
+	print()
+	print("The Marrying Maiden, Inexperience")
+	print()
+	print("Attributes: Dissappoinment, lack of substance, subordination, perspective")
+	print()
+	print("This hexagram comprises Thunder over Lake. Despite the insurmountable distance between them, the water ripples beneath the rumbling of an autumnal storm. This suggests the tendency of the inexperienced (the Lake trigram is also known as “the Youngest Daughter”) to easily become infatuated with individuals with whom they have little genuine connection.")
+	print("	The I Ching elaborates on this image, describing a young lady who has impulsively entered into a marriage, the realities of which fail to live up to her hopes. In the absence of genuine love, the basis of true union, she finds herself in a subordinate role and somewhat taken for granted.")
+	print("	In these situations, such mistakes must be acknowledged and tactful steps taken to remedy matters. Rushing to escape invites a painful failure. We must not compound one impetus error with another.")
+	print("	Gui Mei reminds us that misunderstandings and errors in judgment may occur in all sorts of relationships, particularly where we allow ourselves to float through life ruled by whims rather than purpose. The sense of flow advocated by the I Ching is to move in accordance with the inner current of life, not to drift haphazardly under the influence of others.")
+	print()
