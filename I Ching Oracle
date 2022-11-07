@@ -1019,3 +1019,18 @@ if trigram_1 == "Wind" and trigram_2 == "Wind":
 	print("	The wind adapts itself to the shapes and natures of the obstacles it encounters without interrupting its subtle insistence. Similarly, a flexible nature will win us friends in our endeavors. Balance is needed, however. Excessive compliance will undermine our self-confidence and respect from others. Advancement is not possible from a crouching position.")
 	print("	Xun advises us that the way to lasting support for our ideas lies in patient repetition and explanation. We cannot expect endorsement of our goals unless they have permeated the hearts and minds of others, nor instructions to be carried out if they are not clearly understood.")
 	print()
+
+# 58 Lake over Lake
+if trigram_1 == "Lake" and trigram_2 == "Lake":
+	print()
+	print("# Dui")
+	print()
+	print("Joy, Pleasure")
+	print()
+	print("Attributes: Bliss, shared happiness, communication, openess, banishment of anxiety")
+	print()
+	print("This hexagram comprises Lake over Lake, suggesting a higher lake sharing its waters with a lower one, thereby lessening its likelihood of being depleted by evaporation. Similarly, joy, knowledge, and wisdom are enhanced when shared throughout the community.")
+	print("	The Lake trigram symbolizes the joy that arises from a sense of stability (the two lower yang lines depict this internal strength and the upper yin line the external mildness). This trigram’s influence, doubled in Dui, embodies a mood of infectious elation where beauty and celebration reign as nature offers up her harvest.")
+	print("	With its usual sense of the importance of balance, the I Ching reminds us not to allow this exuberance to slip into uncontrolled revelry, nor to allow the trigram’s association with speech to become, through its doubling, excessive, gossipy, or quarrelsome as conversations at gatherings often do. The emphasis on speech should instead be an indication of shared goodwill, good humor, and wisdom. It may also suggest a career involving public speaking.")
+	print("	Dui reminds us that all we undertake in life provides and opportunity to learn and thereafter the chance to share the fruits of our endeavors. As such, each task we undertake should be embraced with pleasure.")
+	print()
