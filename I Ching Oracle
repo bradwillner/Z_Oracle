@@ -989,3 +989,18 @@ if trigram_1 == "Thunder" and trigram_2 == "Fire":
 	print("	Feng counsels against excess and complacency in the face of our triumph. Like a wise leader who, having risen to power, establishes justice and order, we should not waste opportunities by indulging in self-congratulation. Careful management is called for in all matters despite the jubilant distractions around us.")
 	print("	At the same time, we must not let our sense of responsibility rob us of our pleasure in this particularly favorable period of our lives. We owe it to our supporters and loved ones to participate in the celebrations.")
 	print()
+
+# 56 Fire over Mountain
+if trigram_1 == "Fire" and trigram_2 == "Mountain":
+	print()
+	print("# 56 Lu")
+	print()
+	print("The Wanderer, Transition")
+	print()
+	print("Attributes: Impermanence, travel, movement, separation, quests, strangers")
+	print()
+	print("This hexagram comprises Fire over Mountain, which suggests a wildfire burning through the foliage at the top of a mountain. The blaze rapidly consumes all the fuel the peak has and it must then travel in search of more. The relationship between the two trigrams embodies transience.")
+	print("	This image in turn represents the need that at times drives us to keep on the move, in search of something we are unable to find at home. Lu is therefore the hexagram of the seeker.")
+	print("	Restlessness often results from our need to find a new form of fuel in our lives, but to travel well we must be aware of its hazards. Separated from familiar securities, we must adapt to unfamiliar places and customs with caution and respect, and to strangers with courtesy, discretion, and deference. By avoiding airs and pretension, we protect ourselves against humiliation.")
+	print("	While traveling prevents stagnation, we must be mindful of the fact that when constantly moving we may decrease our ability to have a permanent influence on the world. Such achievements often require risks that are better made from place of strength and stability. We must also recognize when we are traveling to escape something, rather than to seek something.")
+	print()
