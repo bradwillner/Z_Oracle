@@ -1079,3 +1079,18 @@ if trigram_1 == "Wind" and trigram_2 == "Lake":
 	print("	Gentleness and understanding create more willingness in others to follow that force or intimidation can, but their effectiveness requires the utmost sincerity and a refusal to pander to the whims of ego. When mutual trust is undermined by self-interest, far-reaching and permanent progress is impossible. Few forces are more destructive to prosperity than the resentment bred by misplaced trust and affection.")
 	print("	As long as the atmosphere associated with Zhong Fu is free from dishonesty and prejudice, this is an exceptionally auspicious time for all enterprises of communal benefit.")
 	print()
+
+# 62 Thunder over Mountain
+if trigram_1 == "Thunder" and trigram_2 == "Mountain":
+	print()
+	print("# 62 Xiao Guo (Hsaio Kuo")
+	print()
+	print("The Preponderance Of The Small, Humility")
+	print()
+	print("Attributes: Attending to details, minute adjustments, modesty, adapting to circumstances")
+	print()
+	print("This hexagram comprises Thunder over Mountain. While the mountaintop may seem very close to the source of thunder, the earthbound stillness of the peak does not allow it to rise any closer. As the thunder’s echoes gradually diminish, it is as if they remind the mountain to attend to mundane matters rather than the exalted.")
+	print("	The form of the hexagram also suggest the form of a bird with its wings raised for flight, but Xiao Guo advises the bird that while the thunder rages this is not the time for ambitious flight. It is wiser to fly down the mountain to the safety of the nest. The hexagram likewise informs us that this is a time for attending to humble duties taker that grandiose plans.")
+	print("	In this climate, we will find it difficult to make any significant advancement, and opportunities may be lost despite our hard work. Our best course is to maintain a low profile and concentrate on small challenges until we have a clearer picture of how to proceed.")
+	print("	In doing so, however, we must not altogether abandon ambition and purpose. The self-negation of excessive humility may spread to meanness and disrespectfulness toward others.")
+	print()
