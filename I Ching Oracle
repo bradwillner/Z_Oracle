@@ -1064,3 +1064,18 @@ if trigram_1 == "Water" and trigram_2 == "Lake":
 	print("	It is easy to see that self-restraint prepares us for hardships and that thrift today assures us of opportunity tomorrow. However, we must be careful not to allow moderation to turn into asceticism. To limit ourselves and others too harshly is to allow the lake to be reduced to mud. Severe regulation leads to oppression, rebellion, and declining prosperity.")
 	print("	Jie reminds us that even limitations have their limits and we must each find our “middle ground” throughout our lives.")
 	print()
+
+# 61 Wind over Lake
+if trigram_1 == "Wind" and trigram_2 == "Lake":
+	print()
+	print("# 61 Zhong Fu (Chung Fu)")
+	print()
+	print("Inner Truth, Sincerity")
+	print()
+	print("Attributes: Compassion, willingness to grow, spiritual development, transformation")
+	print()
+	print("This hexagram comprises Wind over Lake, suggesting the dancing of ripples on the lake’s surface as a gentle breeze plays over it. As the invisible is made visible by the ripples, so may the realm of spiritual existence be perceived throughout the actions of those it touches.")
+	print("	The shape of the hexagram suggests both an open heart ( the small space created by the central yin lines in the otherwise solid form) and the meeting of lips in a kiss (the trigrams mirroring each other). Both images reinforce Zhong Fu’s recommendation that we devote our efforts to becoming more receptive to universal compassion and the spiritual truths that transcend individual and cultural differences.")
+	print("	Gentleness and understanding create more willingness in others to follow that force or intimidation can, but their effectiveness requires the utmost sincerity and a refusal to pander to the whims of ego. When mutual trust is undermined by self-interest, far-reaching and permanent progress is impossible. Few forces are more destructive to prosperity than the resentment bred by misplaced trust and affection.")
+	print("	As long as the atmosphere associated with Zhong Fu is free from dishonesty and prejudice, this is an exceptionally auspicious time for all enterprises of communal benefit.")
+	print()
