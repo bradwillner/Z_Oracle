@@ -1049,3 +1049,18 @@ if trigram_1 == "Wind" and trigram_2 == "Water":
 	print("	Communities and individuals also experience stagnation, stalemates, and rigidity of thoughts. Huan represents the need for the dispersal of such obstacles to progress, acknowledging that this sometimes entails a period of chaos. In order to break through major obstructions, the wind must often whip up powerful waves. Once unleashed, they may become a fearsome force of destruction, and Huan warns us against becoming lost in the confusion. ")
 	print("	Wind and the element Wood are related in the I Ching. Though the image of Wood on Water, Huan also suggests the boats, which allow separated individuals to reunite. In divination it may suggest a new venture, travel, or a change of home or career.")
 	print()
+
+# 60 Water over Lake
+if trigram_1 == "Water" and trigram_2 == "Lake":
+	print()
+	print("# 60 Jie (Chieh)")
+	print()
+	print("Limitation, Moderation")
+	print()
+	print("Attributes: Self-restraint, necessary restrictions, discipline, equlibrium")
+	print()
+	print("This hexagram comprises Water over Lake, which suggests rain falling into the lake. If there is insufficient rain, the lake will dry up; if there is too much, it may cause devastation through overflowing. Jie is, therefore, the hexagram of moderation and the application of sensible limits.")
+	print("	Just as there exists vastly more water in our world than a single lake could hold, so the riches and complexities of life are infinite while we are finite vessels. If a lake received unlimited amounts of water it would no longer be a lake, and if we attempt to absorb more from life than we are constitutionally able to bear, we would likewise lose our identity. Knowledge of our limitations allows us to prevent the dangers of overindulgence.")
+	print("	It is easy to see that self-restraint prepares us for hardships and that thrift today assures us of opportunity tomorrow. However, we must be careful not to allow moderation to turn into asceticism. To limit ourselves and others too harshly is to allow the lake to be reduced to mud. Severe regulation leads to oppression, rebellion, and declining prosperity.")
+	print("	Jie reminds us that even limitations have their limits and we must each find our “middle ground” throughout our lives.")
+	print()
