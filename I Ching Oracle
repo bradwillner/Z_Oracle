@@ -1109,3 +1109,18 @@ if trigram_1 == "Water" and trigram_2 == "Fire":
 	print("	In all aspects of life the I Ching warns against complacency, and at the successful conclusion of a long undertaking, we are more than usually prone to this failing. Ji Ji emphasizes that a period of consolidation is neccessary if our project is to enjoy continued success. In this moment of release from anxiety, we must not indulge too heavily in celebration. Our focus must be on perfecting the situation and guarding against reversals.")
 	print("	We are also advised not to embark on another ambitious enterprise immediately. Our initial elation could soon turn to exhaustion and schemes well started could end poorly.")
 	print()
+
+# 64 Fire over Water
+if trigram_1 == "Fire" and trigram_2 == "Water":
+	print()
+	print("# 64 Wei Ji (Wei Chi)")
+	print()
+	print("Before Completion, The River Not Yet Crossed")
+	print()
+	print("Attributes: Incomplete fulfillment, continued effort, transition, preparation for action, approaching success")
+	print()
+	print("This hexagram comprises Fire over Water. While the shape of the hexagram (two opposite trigrams and a regular alternation of yin and yang lines) suggests order, the upwardly rising fire and downwardly flowing water have no effect on each other. The opposite of hexagram 63, this shows an enterprise nearing completion but still requiring diligent work.")
+	print("	At such times we may be in danger of ruining our work by rushing toward the end without attending to unfinished details or resolving possible misunderstandings. Either frustration or bravado could prove our undoing and should be guarded against.")
+	print("	The I Ching offers an image for this of a young fox attempting to cross the thin ice of a frozen stream. In his haste to reach dry land he is careless in his final leap and allows his tail to splash into the cold water. We must be careful not to fall into the same error and have a probable victory reduced to an embarrassing failure.")
+	print("	The period of transition as we near the end of a project is a dangerous time but Wei Ji suggests that with deliberation, patience, and caution, success is well within our grasp.")
+	print()
