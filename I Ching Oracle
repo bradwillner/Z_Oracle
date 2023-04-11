@@ -189,7 +189,7 @@ if trigram_1 == "Earth" and trigram_2 == "Earth":
 	print ("The Recptive, Mother Earth, The Queen")
 	print ()
 	print ("Attributes: Pure yin energy, the passive principle, receptivity to wise counsel")
-	print ("This hexagram comprises Earth over Earth, indicating that if you are like Mother Earth and are receptive to the energy of Heaven you will find abundance--in the receptive soil one seed may produce ten thousand seeds. This hexagram represents the primal womb, which gives birth, providing bodily form to new life.")
+	print (" This hexagram comprises Earth over Earth, indicating that if you are like Mother Earth and are receptive to the energy of Heaven you will find abundance--in the receptive soil one seed may produce ten thousand seeds. This hexagram represents the primal womb, which gives birth, providing bodily form to new life.")
 	print (" This hexagram urges you to be receptive to guiding influences. Remember that you can yield and be responsive to Heaven's will and still be true to yourself. Choosing your own path or following your own inclinations will not work out well at the moment. Choose to follow another's wise lead, as this will meet with success. But how can you know who are your right friends and mentors? Like the ideal mother, you too must develop unconditional love--a love that is beyond emotional entanglement. You will then be able to accept your friends as they truly are and be in a better position to understand whether what they say and do is wise.")
 	print (" This hexagram advocates a gentle, steady, firm, and courageous approach to your issue. By following this path you may have to wait a little longer than you would like for the desired result, but the wait will be most rewarding. Doing things on impulse will not give you any lasting success. Thinking that you alone must control your decision will only invite disaster--when you try to control everything, everything will go out of control.")
 	print()
@@ -205,7 +205,7 @@ if trigram_1 == "Water" and trigram_2 == "Thunder":
 	print ()
 	print ("This hexagram comprises Water over Thunder, which suggests the image of dark clouds before a storm and subsequent heavy rain puring from the heavens. This amy appear to be a time of darkness and disorder, but sooner or later the rain and thunder will stop and the clouds will disperse, resolving chaos and helping things to germinate.")
 	print ()
-	print ("This is a period when new situations are full of potential to develop, so you should devote your energies to careful preparation and timing, and to strengthening your ability to distinguish reality from illusion.")
+	print (" This is a period when new situations are full of potential to develop, so you should devote your energies to careful preparation and timing, and to strengthening your ability to distinguish reality from illusion.")
 	print (" As this is a time of confusion, be watchful of any corrupting influences around you that may divert you from your true path. You are young and innocent at this stage, but do not feel vulnerable, as you must attempt to make order out of disorder.  You may need to sever certain karmic links—to untangle entwined destines or to reassess certain family dynamics—particularly when negativity manifests within the family. You may have to look closely assess whether you are responding to the illusions created by false learning or social conditioning.")
 	print (" This is not a good time for action. You are advised to put your affairs into proper order and then temporarily disengage yourself. Go with the flow and a good opportunity will eventually present itself.")
 	print()
@@ -933,7 +933,7 @@ if trigram_1 == "Thunder" and trigram_2 == "Thunder":
 # 52 Mountain over Mountain
 if trigram_1 == "Mountain" and trigram_2 == "Mountain":
 	print()
-	print("# Gen (Ken)")
+	print("# 52 Gen (Ken)")
 	print()
 	print("Keeping Still, Resting")
 	print()

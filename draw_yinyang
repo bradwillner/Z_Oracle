@@ -1,0 +1,42 @@
+import turtle
+
+# Create a turtle object
+t = turtle.Turtle()
+
+# Define a function to draw a semicircle
+def semicircle(radius, color):
+    t.fillcolor(color)
+    t.begin_fill()
+    t.circle(radius, 180)
+    t.end_fill()
+
+# Define the colors for the yin-yang symbol
+yin_color = 'black'
+yang_color = 'white'
+
+# Draw the yin-yang symbol
+t.speed(0)
+t.penup()
+t.goto(0, -150)
+t.pendown()
+t.pensize(10)
+semicircle(150, yin_color)
+semicircle(150, yang_color)
+t.fillcolor(yin_color)
+t.begin_fill()
+t.circle(75)
+t.end_fill()
+t.fillcolor(yang_color)
+t.begin_fill()
+t.circle(75, 180)
+t.circle(-75, 180)
+t.end_fill()
+t.penup()
+t.goto(0, 0)
+t.pendown()
+t.pensize(5)
+t.circle(5)
+
+# Hide the turtle and update the screen
+t.hideturtle()
+turtle.done()
